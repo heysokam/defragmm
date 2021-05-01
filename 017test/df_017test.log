@@ -1,0 +1,619 @@
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\017test\df_017test.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_teleport (-2160.00 -3180.00 -148.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1604.0 0.0 128.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1044.0 0.0 128.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1112.0 0.0 128.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1536.0 1024.0 128.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 288.0 -264.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 800.0 -232.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 800.0 128.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 288.0 520.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (39762 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 322 texinfos to 220
+Reduced 7 texdatas to 7 (147 bytes to 147)
+Writing D:\Art\Level Design\Momentum Mod\github\017test\df_017test.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\017test\df_017test.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105885, actual size 105671
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\017test\df_017test.bsp
+reading d:\art\level design\momentum mod\github\017test\df_017test.prt
+LoadPortals: couldn't read d:\art\level design\momentum mod\github\017test\df_017test.prt
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\017test\df_017test.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_teleport (-2160.00 -3180.00 -148.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1604.0 0.0 128.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1044.0 0.0 128.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1112.0 0.0 128.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1536.0 1024.0 128.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 288.0 -264.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 800.0 -232.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 800.0 128.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 288.0 520.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (39762 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 322 texinfos to 220
+Reduced 7 texdatas to 7 (147 bytes to 147)
+Writing D:\Art\Level Design\Momentum Mod\github\017test\df_017test.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\017test\df_017test.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105885, actual size 105671
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\017test\df_017test.bsp
+reading d:\art\level design\momentum mod\github\017test\df_017test.prt
+LoadPortals: couldn't read d:\art\level design\momentum mod\github\017test\df_017test.prt
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\017test\df_017test.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\017test\df_017test.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (39746 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 322 texinfos to 220
+Reduced 7 texdatas to 7 (147 bytes to 147)
+Writing D:\Art\Level Design\Momentum Mod\github\017test\df_017test.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\017test\df_017test.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105885, actual size 105671
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\017test\df_017test.bsp
+reading d:\art\level design\momentum mod\github\017test\df_017test.prt
+ 264 portalclusters
+ 869 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 40 visible clusters (0.26%)
+Total clusters visible: 15368
+Average clusters visible: 58
+Building PAS...
+Average clusters audible: 66
+visdatasize:10157  compressed from 21120
+writing d:\art\level design\momentum mod\github\017test\df_017test.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\017test\df_017test.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\017test\df_017test.bsp
+845 faces
+500460 square feet [72066368.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+845 patches before subdivision
+28257 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2457837, max 277
+transfer lists:  18.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0093 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/1024          624/49152    ( 1.3%) 
+brushes                 98/8192         1176/98304    ( 1.2%) 
+brushsides             588/65536        4704/524288   ( 0.9%) 
+planes                 410/65536        8200/1310720  ( 0.6%) 
+vertexes              1335/65536       16020/786432   ( 2.0%) 
+nodes                  511/65536       16352/2097152  ( 0.8%) 
+texinfos               220/12288       15840/884736   ( 1.8%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  845/65536       47320/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              427/65536       23912/3670016  ( 0.7%) 
+leaves                 525/65536       16800/2097152  ( 0.8%) 
+leaffaces             1140/65536        2280/131072   ( 1.7%) 
+leafbrushes            214/65536         428/131072   ( 0.3%) 
+areas                    5/256            40/2048     ( 2.0%) 
+surfedges             5521/512000      22084/2048000  ( 1.1%) 
+edges                 2886/256000      11544/1024000  ( 1.1%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             71/32768         710/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1050/65536        2100/131072   ( 1.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      748732/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       10157/16777216 ( 0.1%) 
+entdata               [variable]        3575/393216   ( 0.9%) 
+LDR ambient table      525/65536        2100/262144   ( 0.8%) 
+HDR ambient table      525/65536        2100/262144   ( 0.8%) 
+LDR leaf ambient       336/65536        9408/1835008  ( 0.5%) 
+HDR leaf ambient       525/65536       14700/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105671/0        ( 0.0%) 
+physics               [variable]       39746/4194304  ( 0.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2123
+Writing d:\art\level design\momentum mod\github\017test\df_017test.bsp
+2 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\017test\df_017test.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\017test\df_017test.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (40418 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 336 texinfos to 229
+Reduced 7 texdatas to 7 (147 bytes to 147)
+Writing D:\Art\Level Design\Momentum Mod\github\017test\df_017test.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\017test\df_017test.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105885, actual size 105671
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\017test\df_017test.bsp
+reading d:\art\level design\momentum mod\github\017test\df_017test.prt
+ 240 portalclusters
+ 761 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 36 visible clusters (0.28%)
+Total clusters visible: 12804
+Average clusters visible: 53
+Building PAS...
+Average clusters audible: 60
+visdatasize:8943  compressed from 15360
+writing d:\art\level design\momentum mod\github\017test\df_017test.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\017test\df_017test.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\017test\df_017test.bsp
+812 faces
+489611 square feet [70504000.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+812 patches before subdivision
+26658 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2263947, max 284
+transfer lists:  17.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0087 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/1024          624/49152    ( 1.3%) 
+brushes                100/8192         1200/98304    ( 1.2%) 
+brushsides             600/65536        4800/524288   ( 0.9%) 
+planes                 356/65536        7120/1310720  ( 0.5%) 
+vertexes              1344/65536       16128/786432   ( 2.1%) 
+nodes                  489/65536       15648/2097152  ( 0.7%) 
+texinfos               229/12288       16488/884736   ( 1.9%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  812/65536       45472/3670016  ( 1.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              431/65536       24136/3670016  ( 0.7%) 
+leaves                 503/65536       16096/2097152  ( 0.8%) 
+leaffaces             1155/65536        2310/131072   ( 1.8%) 
+leafbrushes            208/65536         416/131072   ( 0.3%) 
+areas                    5/256            40/2048     ( 2.0%) 
+surfedges             5450/512000      21800/2048000  ( 1.1%) 
+edges                 2863/256000      11452/1024000  ( 1.1%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             72/32768         720/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1050/65536        2100/131072   ( 1.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      747216/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        8943/16777216 ( 0.1%) 
+entdata               [variable]        3560/393216   ( 0.9%) 
+LDR ambient table      503/65536        2012/262144   ( 0.8%) 
+HDR ambient table      503/65536        2012/262144   ( 0.8%) 
+LDR leaf ambient       312/65536        8736/1835008  ( 0.5%) 
+HDR leaf ambient       503/65536       14084/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105671/0        ( 0.0%) 
+physics               [variable]       40418/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2102
+Writing d:\art\level design\momentum mod\github\017test\df_017test.bsp
+1 second elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\017test\df_017test.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\017test\df_017test.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (40418 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 336 texinfos to 229
+Reduced 7 texdatas to 7 (147 bytes to 147)
+Writing D:\Art\Level Design\Momentum Mod\github\017test\df_017test.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\017test\df_017test.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105885, actual size 105671
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\017test\df_017test.bsp
+reading d:\art\level design\momentum mod\github\017test\df_017test.prt
+ 240 portalclusters
+ 761 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 36 visible clusters (0.28%)
+Total clusters visible: 12804
+Average clusters visible: 53
+Building PAS...
+Average clusters audible: 60
+visdatasize:8943  compressed from 15360
+writing d:\art\level design\momentum mod\github\017test\df_017test.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\017test\df_017test.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\017test\df_017test.bsp
+812 faces
+489611 square feet [70504000.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+812 patches before subdivision
+26658 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2263947, max 284
+transfer lists:  17.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0094 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/1024          624/49152    ( 1.3%) 
+brushes                100/8192         1200/98304    ( 1.2%) 
+brushsides             600/65536        4800/524288   ( 0.9%) 
+planes                 356/65536        7120/1310720  ( 0.5%) 
+vertexes              1344/65536       16128/786432   ( 2.1%) 
+nodes                  489/65536       15648/2097152  ( 0.7%) 
+texinfos               229/12288       16488/884736   ( 1.9%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  812/65536       45472/3670016  ( 1.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              431/65536       24136/3670016  ( 0.7%) 
+leaves                 503/65536       16096/2097152  ( 0.8%) 
+leaffaces             1155/65536        2310/131072   ( 1.8%) 
+leafbrushes            208/65536         416/131072   ( 0.3%) 
+areas                    5/256            40/2048     ( 2.0%) 
+surfedges             5450/512000      21800/2048000  ( 1.1%) 
+edges                 2863/256000      11452/1024000  ( 1.1%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             72/32768         720/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1050/65536        2100/131072   ( 1.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      747216/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        8943/16777216 ( 0.1%) 
+entdata               [variable]        3572/393216   ( 0.9%) 
+LDR ambient table      503/65536        2012/262144   ( 0.8%) 
+HDR ambient table      503/65536        2012/262144   ( 0.8%) 
+LDR leaf ambient       312/65536        8736/1835008  ( 0.5%) 
+HDR leaf ambient       503/65536       14084/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105671/0        ( 0.0%) 
+physics               [variable]       40418/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2102
+Writing d:\art\level design\momentum mod\github\017test\df_017test.bsp
+1 second elapsed
