@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8849"
-	"mapversion" "89"
+	"mapversion" "90"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -19,7 +19,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "89"
+	"mapversion" "90"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -40,8 +40,8 @@ world
 				"v" "-2100 -560 -200"
 			}
 			"material" "METAL/CITADEL_METALWALL072C"
-			"uaxis" "[1 0 0 416] 0.4375"
-			"vaxis" "[0 -1 0 16] 0.411765"
+			"uaxis" "[1 0 0 365.714] 5.74219"
+			"vaxis" "[0 -1 0 384] 4.375"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -175,9 +175,9 @@ world
 				"v" "840 1680 440"
 				"v" "-2100 1680 440"
 			}
-			"material" "TOOLS/TOOLSSKYBOX"
-			"uaxis" "[1 0 0 18.285] 0.604441"
-			"vaxis" "[0 -1 0 63.9984] 0.460527"
+			"material" "METAL/CITADEL_METALWALL063A"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 -1 0 0] 1"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
