@@ -1,0 +1,2194 @@
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.vmf
+Patching WVT material: maps/df_test_gridlimits/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3415 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 40 texinfos to 13
+Reduced 6 texdatas to 5 (161 bytes to 139)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 106400, actual size 106052
+4 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt
+1024 portalclusters
+1984 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1048576
+Average clusters visible: 1024
+Building PAS...
+Average clusters audible: 1024
+visdatasize:270340  compressed from 262144
+writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+42500 faces
+44381940 square feet [6390999040.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+42500 patches before subdivision
+42500 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100..Out of memory or address space.  Texture quality setting may be too high.
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.vmf
+Patching WVT material: maps/df_test_gridlimits/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3415 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 40 texinfos to 13
+Reduced 6 texdatas to 5 (161 bytes to 139)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 106400, actual size 106052
+4 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt
+1024 portalclusters
+1984 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1048576
+Average clusters visible: 1024
+Building PAS...
+Average clusters audible: 1024
+visdatasize:270340  compressed from 262144
+writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+33 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+42500 faces
+44381940 square feet [6390999040.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+42500 patches before subdivision
+3421988 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9..Out of memory or address space.  Texture quality setting may be too high.
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.vmf
+Patching WVT material: maps/df_test_gridlimits/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3415 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 40 texinfos to 13
+Reduced 6 texdatas to 5 (161 bytes to 139)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 106400, actual size 106052
+4 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt
+1024 portalclusters
+1984 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1048576
+Average clusters visible: 1024
+Building PAS...
+Average clusters audible: 1024
+visdatasize:270340  compressed from 262144
+writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+29 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+42500 faces
+44381940 square feet [6390999040.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+42500 patches before subdivision
+3421988 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9..Out of memory or address space.  Texture quality setting may be too high.
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.vmf
+Patching WVT material: maps/df_test_gridlimits/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3415 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 43 texinfos to 13
+Reduced 6 texdatas to 5 (161 bytes to 139)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 106400, actual size 106052
+4 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt
+   1 portalclusters
+   0 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1
+Average clusters visible: 1
+Building PAS...
+Average clusters audible: 1
+visdatasize:14  compressed from 16
+writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+42500 faces
+44381940 square feet [6390999040.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+42500 patches before subdivision
+3421988 patches after subdivision
+0 direct lights
+0...
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.vmf
+Patching WVT material: maps/df_test_gridlimits/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3415 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 43 texinfos to 13
+Reduced 6 texdatas to 5 (161 bytes to 139)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 106400, actual size 106052
+3 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt
+   1 portalclusters
+   0 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1
+Average clusters visible: 1
+Building PAS...
+Average clusters audible: 1
+visdatasize:14  compressed from 16
+writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+42500 faces
+44381940 square feet [6390999040.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+42500 patches before subdivision
+42500 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100Out of memory or address space.  Texture quality setting may be too high.
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.vmf
+Patching WVT material: maps/df_test_gridlimits/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3415 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 43 texinfos to 13
+Reduced 6 texdatas to 5 (161 bytes to 139)
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.vmf
+Patching WVT material: maps/df_test_gridlimits/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3415 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 43 texinfos to 13
+Reduced 6 texdatas to 5 (161 bytes to 139)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 106400, actual size 106052
+3 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt
+   1 portalclusters
+   0 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1
+Average clusters visible: 1
+Building PAS...
+Average clusters audible: 1
+visdatasize:14  compressed from 16
+writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+42500 faces
+44381940 square feet [6390999040.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<4.1897 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                  9/8192          108/98304    ( 0.1%) 
+brushsides              54/65536         432/524288   ( 0.1%) 
+planes                 182/65536        3640/1310720  ( 0.3%) 
+vertexes             42885/65536      514620/786432   (65.4%) 
+nodes                 3311/65536      105952/2097152  ( 5.1%) 
+texinfos                13/12288         936/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                42500/65536     2380000/3670016  (64.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                3315/65536      106080/2097152  ( 5.1%) 
+leaffaces            42500/65536       85000/131072   (64.8%) 
+leafbrushes           2178/65536        4356/131072   ( 3.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges           170828/512000     683312/2048000  (33.4%) 
+edges                85415/256000     341660/1024000  (33.4%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    114274832/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          14/16777216 ( 0.0%) 
+entdata               [variable]         830/393216   ( 0.2%) 
+LDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+HDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+LDR leaf ambient      1036/65536       29008/1835008  ( 1.6%) 
+HDR leaf ambient      3315/65536       92820/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106052/0        ( 0.0%) 
+physics               [variable]        3415/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 85756
+Writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+19 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.vmf
+Patching WVT material: maps/df_test_gridlimits/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3415 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 43 texinfos to 13
+Reduced 6 texdatas to 5 (161 bytes to 139)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 106400, actual size 106052
+12 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt
+   1 portalclusters
+   0 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1
+Average clusters visible: 1
+Building PAS...
+Average clusters audible: 1
+visdatasize:14  compressed from 16
+writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+42500 faces
+44381940 square feet [6390999040.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<4.1906 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                  9/8192          108/98304    ( 0.1%) 
+brushsides              54/65536         432/524288   ( 0.1%) 
+planes                 182/65536        3640/1310720  ( 0.3%) 
+vertexes             42885/65536      514620/786432   (65.4%) 
+nodes                 3311/65536      105952/2097152  ( 5.1%) 
+texinfos                13/12288         936/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                42500/65536     2380000/3670016  (64.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                3315/65536      106080/2097152  ( 5.1%) 
+leaffaces            42500/65536       85000/131072   (64.8%) 
+leafbrushes           2178/65536        4356/131072   ( 3.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges           170828/512000     683312/2048000  (33.4%) 
+edges                85415/256000     341660/1024000  (33.4%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    114274832/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          14/16777216 ( 0.0%) 
+entdata               [variable]         830/393216   ( 0.2%) 
+LDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+HDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+LDR leaf ambient      1036/65536       29008/1835008  ( 1.6%) 
+HDR leaf ambient      3315/65536       92820/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106052/0        ( 0.0%) 
+physics               [variable]        3415/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 85756
+Writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+16 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.vmf
+Patching WVT material: maps/df_test_gridlimits/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3415 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 43 texinfos to 13
+Reduced 6 texdatas to 5 (161 bytes to 139)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 106400, actual size 106052
+3 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt
+   1 portalclusters
+   0 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1
+Average clusters visible: 1
+Building PAS...
+Average clusters audible: 1
+visdatasize:14  compressed from 16
+writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+42500 faces
+44381940 square feet [6390999040.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<4.2078 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                  9/8192          108/98304    ( 0.1%) 
+brushsides              54/65536         432/524288   ( 0.1%) 
+planes                 182/65536        3640/1310720  ( 0.3%) 
+vertexes             42885/65536      514620/786432   (65.4%) 
+nodes                 3311/65536      105952/2097152  ( 5.1%) 
+texinfos                13/12288         936/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                42500/65536     2380000/3670016  (64.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                3315/65536      106080/2097152  ( 5.1%) 
+leaffaces            42500/65536       85000/131072   (64.8%) 
+leafbrushes           2178/65536        4356/131072   ( 3.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges           170828/512000     683312/2048000  (33.4%) 
+edges                85415/256000     341660/1024000  (33.4%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    114274832/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          14/16777216 ( 0.0%) 
+entdata               [variable]         830/393216   ( 0.2%) 
+LDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+HDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+LDR leaf ambient      1036/65536       29008/1835008  ( 1.6%) 
+HDR leaf ambient      3315/65536       92820/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106052/0        ( 0.0%) 
+physics               [variable]        3415/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 85756
+Writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+25 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.vmf
+Patching WVT material: maps/df_test_gridlimits/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3415 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 42 texinfos to 14
+Reduced 6 texdatas to 5 (161 bytes to 139)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 106400, actual size 106052
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt
+   1 portalclusters
+   0 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1
+Average clusters visible: 1
+Building PAS...
+Average clusters audible: 1
+visdatasize:14  compressed from 16
+writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+3212 faces
+44391112 square feet [6392320000.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3212 patches before subdivision
+3212 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7826986, max 2912
+transfer lists:  59.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0931 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                  9/8192          108/98304    ( 0.1%) 
+brushsides              54/65536         432/524288   ( 0.1%) 
+planes                 182/65536        3640/1310720  ( 0.3%) 
+vertexes              3235/65536       38820/786432   ( 4.9%) 
+nodes                 3311/65536      105952/2097152  ( 5.1%) 
+texinfos                14/12288        1008/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3212/65536      179872/3670016  ( 4.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                3315/65536      106080/2097152  ( 5.1%) 
+leaffaces             3212/65536        6424/131072   ( 4.9%) 
+leafbrushes           2178/65536        4356/131072   ( 3.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            12952/512000      51808/2048000  ( 2.5%) 
+edges                 6477/256000      25908/1024000  ( 2.5%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2105456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          14/16777216 ( 0.0%) 
+entdata               [variable]         830/393216   ( 0.2%) 
+LDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+HDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+LDR leaf ambient      1036/65536       29008/1835008  ( 1.6%) 
+HDR leaf ambient      3315/65536       92820/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106052/0        ( 0.0%) 
+physics               [variable]        3415/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6456
+Writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+5 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.vmf
+Patching WVT material: maps/df_test_gridlimits/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3415 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 42 texinfos to 14
+Reduced 6 texdatas to 5 (161 bytes to 139)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 106400, actual size 106052
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt
+   1 portalclusters
+   0 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1
+Average clusters visible: 1
+Building PAS...
+Average clusters audible: 1
+visdatasize:14  compressed from 16
+writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+3212 faces
+44391112 square feet [6392320000.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1068 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                  9/8192          108/98304    ( 0.1%) 
+brushsides              54/65536         432/524288   ( 0.1%) 
+planes                 182/65536        3640/1310720  ( 0.3%) 
+vertexes              3235/65536       38820/786432   ( 4.9%) 
+nodes                 3311/65536      105952/2097152  ( 5.1%) 
+texinfos                14/12288        1008/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3212/65536      179872/3670016  ( 4.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                3315/65536      106080/2097152  ( 5.1%) 
+leaffaces             3212/65536        6424/131072   ( 4.9%) 
+leafbrushes           2178/65536        4356/131072   ( 3.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            12952/512000      51808/2048000  ( 2.5%) 
+edges                 6477/256000      25908/1024000  ( 2.5%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2105456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          14/16777216 ( 0.0%) 
+entdata               [variable]         830/393216   ( 0.2%) 
+LDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+HDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+LDR leaf ambient      1036/65536       29008/1835008  ( 1.6%) 
+HDR leaf ambient      3315/65536       92820/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106052/0        ( 0.0%) 
+physics               [variable]        3415/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6456
+Writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+4 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.vmf
+Patching WVT material: maps/df_test_gridlimits/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3415 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 42 texinfos to 14
+Reduced 6 texdatas to 5 (161 bytes to 139)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 106400, actual size 106052
+1 second elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt
+   1 portalclusters
+   0 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1
+Average clusters visible: 1
+Building PAS...
+Average clusters audible: 1
+visdatasize:14  compressed from 16
+writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+3212 faces
+44391112 square feet [6392320000.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0956 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                  9/8192          108/98304    ( 0.1%) 
+brushsides              54/65536         432/524288   ( 0.1%) 
+planes                 182/65536        3640/1310720  ( 0.3%) 
+vertexes              3235/65536       38820/786432   ( 4.9%) 
+nodes                 3311/65536      105952/2097152  ( 5.1%) 
+texinfos                14/12288        1008/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3212/65536      179872/3670016  ( 4.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                3315/65536      106080/2097152  ( 5.1%) 
+leaffaces             3212/65536        6424/131072   ( 4.9%) 
+leafbrushes           2178/65536        4356/131072   ( 3.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            12952/512000      51808/2048000  ( 2.5%) 
+edges                 6477/256000      25908/1024000  ( 2.5%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2105456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          14/16777216 ( 0.0%) 
+entdata               [variable]         830/393216   ( 0.2%) 
+LDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+HDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+LDR leaf ambient      1036/65536       29008/1835008  ( 1.6%) 
+HDR leaf ambient      3315/65536       92820/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106052/0        ( 0.0%) 
+physics               [variable]        3415/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6456
+Writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+3 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.vmf
+Patching WVT material: maps/df_test_gridlimits/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3415 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 42 texinfos to 14
+Reduced 6 texdatas to 5 (161 bytes to 139)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 106400, actual size 106052
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt
+   1 portalclusters
+   0 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1
+Average clusters visible: 1
+Building PAS...
+Average clusters audible: 1
+visdatasize:14  compressed from 16
+writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+3212 faces
+44391112 square feet [6392320000.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1016 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                  9/8192          108/98304    ( 0.1%) 
+brushsides              54/65536         432/524288   ( 0.1%) 
+planes                 182/65536        3640/1310720  ( 0.3%) 
+vertexes              3235/65536       38820/786432   ( 4.9%) 
+nodes                 3311/65536      105952/2097152  ( 5.1%) 
+texinfos                14/12288        1008/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3212/65536      179872/3670016  ( 4.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                3315/65536      106080/2097152  ( 5.1%) 
+leaffaces             3212/65536        6424/131072   ( 4.9%) 
+leafbrushes           2178/65536        4356/131072   ( 3.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            12952/512000      51808/2048000  ( 2.5%) 
+edges                 6477/256000      25908/1024000  ( 2.5%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2105456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          14/16777216 ( 0.0%) 
+entdata               [variable]         830/393216   ( 0.2%) 
+LDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+HDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+LDR leaf ambient      1036/65536       29008/1835008  ( 1.6%) 
+HDR leaf ambient      3315/65536       92820/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106052/0        ( 0.0%) 
+physics               [variable]        3415/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6456
+Writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+4 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.vmf
+Patching WVT material: maps/df_test_gridlimits/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3415 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 42 texinfos to 14
+Reduced 6 texdatas to 5 (161 bytes to 139)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 106400, actual size 106052
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt
+   1 portalclusters
+   0 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1
+Average clusters visible: 1
+Building PAS...
+Average clusters audible: 1
+visdatasize:14  compressed from 16
+writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+3212 faces
+44391112 square feet [6392320000.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0949 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                  9/8192          108/98304    ( 0.1%) 
+brushsides              54/65536         432/524288   ( 0.1%) 
+planes                 182/65536        3640/1310720  ( 0.3%) 
+vertexes              3235/65536       38820/786432   ( 4.9%) 
+nodes                 3311/65536      105952/2097152  ( 5.1%) 
+texinfos                14/12288        1008/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3212/65536      179872/3670016  ( 4.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                3315/65536      106080/2097152  ( 5.1%) 
+leaffaces             3212/65536        6424/131072   ( 4.9%) 
+leafbrushes           2178/65536        4356/131072   ( 3.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            12952/512000      51808/2048000  ( 2.5%) 
+edges                 6477/256000      25908/1024000  ( 2.5%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2105456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          14/16777216 ( 0.0%) 
+entdata               [variable]         830/393216   ( 0.2%) 
+LDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+HDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+LDR leaf ambient      1036/65536       29008/1835008  ( 1.6%) 
+HDR leaf ambient      3315/65536       92820/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106052/0        ( 0.0%) 
+physics               [variable]        3415/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6456
+Writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+3 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.vmf
+Patching WVT material: maps/df_test_gridlimits/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3415 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 42 texinfos to 14
+Reduced 6 texdatas to 5 (161 bytes to 139)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 106400, actual size 106052
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt
+   1 portalclusters
+   0 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1
+Average clusters visible: 1
+Building PAS...
+Average clusters audible: 1
+visdatasize:14  compressed from 16
+writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+3212 faces
+44391112 square feet [6392320000.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1023 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                  9/8192          108/98304    ( 0.1%) 
+brushsides              54/65536         432/524288   ( 0.1%) 
+planes                 182/65536        3640/1310720  ( 0.3%) 
+vertexes              3235/65536       38820/786432   ( 4.9%) 
+nodes                 3311/65536      105952/2097152  ( 5.1%) 
+texinfos                14/12288        1008/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3212/65536      179872/3670016  ( 4.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                3315/65536      106080/2097152  ( 5.1%) 
+leaffaces             3212/65536        6424/131072   ( 4.9%) 
+leafbrushes           2178/65536        4356/131072   ( 3.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            12952/512000      51808/2048000  ( 2.5%) 
+edges                 6477/256000      25908/1024000  ( 2.5%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2105456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          14/16777216 ( 0.0%) 
+entdata               [variable]         830/393216   ( 0.2%) 
+LDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+HDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+LDR leaf ambient      1036/65536       29008/1835008  ( 1.6%) 
+HDR leaf ambient      3315/65536       92820/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106052/0        ( 0.0%) 
+physics               [variable]        3415/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6456
+Writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+4 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.vmf
+Patching WVT material: maps/df_test_gridlimits/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3415 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 42 texinfos to 14
+Reduced 6 texdatas to 5 (161 bytes to 139)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 106400, actual size 106052
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt
+   1 portalclusters
+   0 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1
+Average clusters visible: 1
+Building PAS...
+Average clusters audible: 1
+visdatasize:14  compressed from 16
+writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+3212 faces
+44391112 square feet [6392320000.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1024 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                  9/8192          108/98304    ( 0.1%) 
+brushsides              54/65536         432/524288   ( 0.1%) 
+planes                 182/65536        3640/1310720  ( 0.3%) 
+vertexes              3235/65536       38820/786432   ( 4.9%) 
+nodes                 3311/65536      105952/2097152  ( 5.1%) 
+texinfos                14/12288        1008/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3212/65536      179872/3670016  ( 4.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                3315/65536      106080/2097152  ( 5.1%) 
+leaffaces             3212/65536        6424/131072   ( 4.9%) 
+leafbrushes           2178/65536        4356/131072   ( 3.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            12952/512000      51808/2048000  ( 2.5%) 
+edges                 6477/256000      25908/1024000  ( 2.5%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2105456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          14/16777216 ( 0.0%) 
+entdata               [variable]         830/393216   ( 0.2%) 
+LDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+HDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+LDR leaf ambient      1036/65536       29008/1835008  ( 1.6%) 
+HDR leaf ambient      3315/65536       92820/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106052/0        ( 0.0%) 
+physics               [variable]        3415/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6456
+Writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+3 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.vmf
+Patching WVT material: maps/df_test_gridlimits/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3415 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 42 texinfos to 14
+Reduced 6 texdatas to 5 (161 bytes to 139)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 106400, actual size 106052
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt
+   1 portalclusters
+   0 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1
+Average clusters visible: 1
+Building PAS...
+Average clusters audible: 1
+visdatasize:14  compressed from 16
+writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+3212 faces
+44391112 square feet [6392320000.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0927 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                  9/8192          108/98304    ( 0.1%) 
+brushsides              54/65536         432/524288   ( 0.1%) 
+planes                 182/65536        3640/1310720  ( 0.3%) 
+vertexes              3235/65536       38820/786432   ( 4.9%) 
+nodes                 3311/65536      105952/2097152  ( 5.1%) 
+texinfos                14/12288        1008/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3212/65536      179872/3670016  ( 4.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                3315/65536      106080/2097152  ( 5.1%) 
+leaffaces             3212/65536        6424/131072   ( 4.9%) 
+leafbrushes           2178/65536        4356/131072   ( 3.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            12952/512000      51808/2048000  ( 2.5%) 
+edges                 6477/256000      25908/1024000  ( 2.5%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2105456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          14/16777216 ( 0.0%) 
+entdata               [variable]         830/393216   ( 0.2%) 
+LDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+HDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+LDR leaf ambient      1036/65536       29008/1835008  ( 1.6%) 
+HDR leaf ambient      3315/65536       92820/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106052/0        ( 0.0%) 
+physics               [variable]        3415/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6456
+Writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+3 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.vmf
+Patching WVT material: maps/df_test_gridlimits/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3415 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 42 texinfos to 14
+Reduced 6 texdatas to 5 (161 bytes to 139)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 106400, actual size 106052
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt
+   1 portalclusters
+   0 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1
+Average clusters visible: 1
+Building PAS...
+Average clusters audible: 1
+visdatasize:14  compressed from 16
+writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+3212 faces
+44391112 square feet [6392320000.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1070 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                  9/8192          108/98304    ( 0.1%) 
+brushsides              54/65536         432/524288   ( 0.1%) 
+planes                 182/65536        3640/1310720  ( 0.3%) 
+vertexes              3235/65536       38820/786432   ( 4.9%) 
+nodes                 3311/65536      105952/2097152  ( 5.1%) 
+texinfos                14/12288        1008/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3212/65536      179872/3670016  ( 4.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                3315/65536      106080/2097152  ( 5.1%) 
+leaffaces             3212/65536        6424/131072   ( 4.9%) 
+leafbrushes           2178/65536        4356/131072   ( 3.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            12952/512000      51808/2048000  ( 2.5%) 
+edges                 6477/256000      25908/1024000  ( 2.5%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2105456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          14/16777216 ( 0.0%) 
+entdata               [variable]         830/393216   ( 0.2%) 
+LDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+HDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+LDR leaf ambient      1036/65536       29008/1835008  ( 1.6%) 
+HDR leaf ambient      3315/65536       92820/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106052/0        ( 0.0%) 
+physics               [variable]        3415/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6456
+Writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+3 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.vmf
+Patching WVT material: maps/df_test_gridlimits/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3415 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 42 texinfos to 14
+Reduced 6 texdatas to 5 (161 bytes to 139)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 106400, actual size 106052
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt
+   1 portalclusters
+   0 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1
+Average clusters visible: 1
+Building PAS...
+Average clusters audible: 1
+visdatasize:14  compressed from 16
+writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+3212 faces
+44391112 square feet [6392320000.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0915 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                  9/8192          108/98304    ( 0.1%) 
+brushsides              54/65536         432/524288   ( 0.1%) 
+planes                 182/65536        3640/1310720  ( 0.3%) 
+vertexes              3235/65536       38820/786432   ( 4.9%) 
+nodes                 3311/65536      105952/2097152  ( 5.1%) 
+texinfos                14/12288        1008/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3212/65536      179872/3670016  ( 4.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                3315/65536      106080/2097152  ( 5.1%) 
+leaffaces             3212/65536        6424/131072   ( 4.9%) 
+leafbrushes           2178/65536        4356/131072   ( 3.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            12952/512000      51808/2048000  ( 2.5%) 
+edges                 6477/256000      25908/1024000  ( 2.5%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2105456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          14/16777216 ( 0.0%) 
+entdata               [variable]         830/393216   ( 0.2%) 
+LDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+HDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+LDR leaf ambient      1036/65536       29008/1835008  ( 1.6%) 
+HDR leaf ambient      3315/65536       92820/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106052/0        ( 0.0%) 
+physics               [variable]        3415/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6456
+Writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+3 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.vmf
+Patching WVT material: maps/df_test_gridlimits/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3415 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 42 texinfos to 14
+Reduced 6 texdatas to 5 (161 bytes to 139)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 106400, actual size 106052
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt
+   1 portalclusters
+   0 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1
+Average clusters visible: 1
+Building PAS...
+Average clusters audible: 1
+visdatasize:14  compressed from 16
+writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+3212 faces
+44391112 square feet [6392320000.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0916 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                  9/8192          108/98304    ( 0.1%) 
+brushsides              54/65536         432/524288   ( 0.1%) 
+planes                 182/65536        3640/1310720  ( 0.3%) 
+vertexes              3235/65536       38820/786432   ( 4.9%) 
+nodes                 3311/65536      105952/2097152  ( 5.1%) 
+texinfos                14/12288        1008/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3212/65536      179872/3670016  ( 4.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                3315/65536      106080/2097152  ( 5.1%) 
+leaffaces             3212/65536        6424/131072   ( 4.9%) 
+leafbrushes           2178/65536        4356/131072   ( 3.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            12952/512000      51808/2048000  ( 2.5%) 
+edges                 6477/256000      25908/1024000  ( 2.5%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2105456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          14/16777216 ( 0.0%) 
+entdata               [variable]         830/393216   ( 0.2%) 
+LDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+HDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+LDR leaf ambient      1036/65536       29008/1835008  ( 1.6%) 
+HDR leaf ambient      3315/65536       92820/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106052/0        ( 0.0%) 
+physics               [variable]        3415/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6456
+Writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+3 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.vmf
+Patching WVT material: maps/df_test_gridlimits/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3415 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 42 texinfos to 14
+Reduced 6 texdatas to 5 (161 bytes to 139)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 106400, actual size 106052
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.prt
+   1 portalclusters
+   0 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1
+Average clusters visible: 1
+Building PAS...
+Average clusters audible: 1
+visdatasize:14  compressed from 16
+writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+3212 faces
+44391112 square feet [6392320000.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0975 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                  9/8192          108/98304    ( 0.1%) 
+brushsides              54/65536         432/524288   ( 0.1%) 
+planes                 182/65536        3640/1310720  ( 0.3%) 
+vertexes              3235/65536       38820/786432   ( 4.9%) 
+nodes                 3311/65536      105952/2097152  ( 5.1%) 
+texinfos                14/12288        1008/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3212/65536      179872/3670016  ( 4.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               18/65536        1008/3670016  ( 0.0%) 
+leaves                3315/65536      106080/2097152  ( 5.1%) 
+leaffaces             3212/65536        6424/131072   ( 4.9%) 
+leafbrushes           2178/65536        4356/131072   ( 3.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            12952/512000      51808/2048000  ( 2.5%) 
+edges                 6477/256000      25908/1024000  ( 2.5%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2105456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          14/16777216 ( 0.0%) 
+entdata               [variable]         830/393216   ( 0.2%) 
+LDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+HDR ambient table     3315/65536       13260/262144   ( 5.1%) 
+LDR leaf ambient      1036/65536       29008/1835008  ( 1.6%) 
+HDR leaf ambient      3315/65536       92820/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106052/0        ( 0.0%) 
+physics               [variable]        3415/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6456
+Writing d:\art\level design\momentum mod\github\018tests\df_test_gridlimits\df_test_gridlimits.bsp
+4 seconds elapsed
