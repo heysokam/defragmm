@@ -1,0 +1,90 @@
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\019ports\df_b0_beta6\df_b0_beta6.vmf
+material "b0_final/b0_wall4" not found.
+Material not found!: B0_FINAL/B0_WALL4
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "organics/grass3" not found.
+Material not found!: ORGANICS/GRASS3
+material "base_wall/patch10_beatup4" not found.
+Material not found!: BASE_WALL/PATCH10_BEATUP4
+material "base_floor/metalbridge04d" not found.
+Material not found!: BASE_FLOOR/METALBRIDGE04D
+material "base_light/border7_ceil50" not found.
+Material not found!: BASE_LIGHT/BORDER7_CEIL50
+material "base_trim/basemetalsupport" not found.
+Material not found!: BASE_TRIM/BASEMETALSUPPORT
+material "gothic_trim/metalsupport4i" not found.
+Material not found!: GOTHIC_TRIM/METALSUPPORT4I
+material "skies/pj_ctf1sky" not found.
+Material not found!: SKIES/PJ_CTF1SKY
+material "base_light/wsupprt1_12" not found.
+Material not found!: BASE_LIGHT/WSUPPRT1_12
+material "base_support/grate1_3" not found.
+Material not found!: BASE_SUPPORT/GRATE1_3
+material "base_support/x_support2" not found.
+Material not found!: BASE_SUPPORT/X_SUPPORT2
+material "base_ceiling/metceil1d" not found.
+Material not found!: BASE_CEILING/METCEIL1D
+material "base_door/shinymetaldoor_outside3a2" not found.
+Material not found!: BASE_DOOR/SHINYMETALDOOR_OUTSIDE3A2
+material "base_wall/bluemetal2" not found.
+Material not found!: BASE_WALL/BLUEMETAL2
+material "base_wall/concrete" not found.
+Material not found!: BASE_WALL/CONCRETE
+material "base_floor/clangdark" not found.
+Material not found!: BASE_FLOOR/CLANGDARK
+material "base_wall/chrome_metal" not found.
+Material not found!: BASE_WALL/CHROME_METAL
+material "base_light/proto_light_2k" not found.
+Material not found!: BASE_LIGHT/PROTO_LIGHT_2K
+material "base_trim/pewter" not found.
+Material not found!: BASE_TRIM/PEWTER
+material "base_wall/bluemetalsupport2e" not found.
+Material not found!: BASE_WALL/BLUEMETALSUPPORT2E
+material "base_wall/comp3" not found.
+Material not found!: BASE_WALL/COMP3
+material "base_wall/main_q3abanner" not found.
+Material not found!: BASE_WALL/MAIN_Q3ABANNER
+material "base_light/trianglelight" not found.
+Material not found!: BASE_LIGHT/TRIANGLELIGHT
+material "base_trim/pewterstep" not found.
+Material not found!: BASE_TRIM/PEWTERSTEP
+material "sfx/launchpad_diamond" not found.
+Material not found!: SFX/LAUNCHPAD_DIAMOND
+material "base_trim/yellow_rustbx128" not found.
+Material not found!: BASE_TRIM/YELLOW_RUSTBX128
+material "base_wall/patch10rusty5" not found.
+Material not found!: BASE_WALL/PATCH10RUSTY5
+material "base_wall/train1" not found.
+Material not found!: BASE_WALL/TRAIN1
+material "base_wall/concretepipe01" not found.
+Material not found!: BASE_WALL/CONCRETEPIPE01
+material "base_light/proto_light" not found.
+Material not found!: BASE_LIGHT/PROTO_LIGHT
+material "base_wall/dooreye" not found.
+Material not found!: BASE_WALL/DOOREYE
+material "base_light/lt2_2000" not found.
+Material not found!: BASE_LIGHT/LT2_2000
+material "base_trim/dirty_pewter_big" not found.
+Material not found!: BASE_TRIM/DIRTY_PEWTER_BIG
+material "base_floor/metalbridge04dbroke" not found.
+Material not found!: BASE_FLOOR/METALBRIDGE04DBROKE
+Brush 57495: nummapbrushes == MAX_MAP_BRUSHES
+Side 5
+Texture: TOOLS/TOOLSNODRAW
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\019ports\df_b0_beta6\df_b0_beta6.bsp
+Error opening d:\art\level design\momentum mod\github\019ports\df_b0_beta6\df_b0_beta6.bsp
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\019ports\df_b0_beta6\df_b0_beta6.bsp
+Error opening d:\art\level design\momentum mod\github\019ports\df_b0_beta6\df_b0_beta6.bsp
