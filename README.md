@@ -23,6 +23,7 @@ Test maps:
 Pending:
 - Functioning version of b0_beta6
 - One short map for each weapon 
+- One or two trickjump maps (not torture)
 ***  
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
