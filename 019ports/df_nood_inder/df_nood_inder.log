@@ -922,3 +922,397 @@ Level flags = 0
 Total triangle count: 14993
 Writing d:\art\level design\momentum mod\github\019ports\df_nood_inder\df_nood_inder.bsp
 4 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\019ports\df_nood_inder\df_nood_inder.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\019ports\df_nood_inder\df_nood_inder.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (278812 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 820 texinfos to 751
+Reduced 10 texdatas to 10 (222 bytes to 222)
+Writing D:\Art\Level Design\Momentum Mod\github\019ports\df_nood_inder\df_nood_inder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\019ports\df_nood_inder\df_nood_inder.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 86976, actual size 86762
+1 second elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\019ports\df_nood_inder\df_nood_inder.bsp
+reading d:\art\level design\momentum mod\github\019ports\df_nood_inder\df_nood_inder.prt
+ 734 portalclusters
+1858 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 9880 visible clusters (4.58%)
+Total clusters visible: 215798
+Average clusters visible: 294
+Building PAS...
+Average clusters audible: 534
+visdatasize:103614  compressed from 140928
+writing d:\art\level design\momentum mod\github\019ports\df_nood_inder\df_nood_inder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\019ports\df_nood_inder\df_nood_inder.bsp', but we don't own that location. Allowing.
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\019ports\df_nood_inder\df_nood_inder.bsp
+4927 faces
+1 degenerate faces
+2499567 square feet [359937664.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4926 patches before subdivision
+4926 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1285048, max 856
+transfer lists:   9.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0746 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  24/1024         1152/49152    ( 2.3%) 
+brushes                786/8192         9432/98304    ( 9.6%) 
+brushsides            5549/65536       44392/524288   ( 8.5%) 
+planes                2940/65536       58800/1310720  ( 4.5%) 
+vertexes              7049/65536       84588/786432   (10.8%) 
+nodes                 2154/65536       68928/2097152  ( 3.3%) 
+texinfos               751/12288       54072/884736   ( 6.1%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4927/65536      275912/3670016  ( 7.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1373/65536       76888/3670016  ( 2.1%) 
+leaves                2179/65536       69728/2097152  ( 3.3%) 
+leaffaces             5522/65536       11044/131072   ( 8.4%) 
+leafbrushes           2498/65536        4996/131072   ( 3.8%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            27991/512000     111964/2048000  ( 5.5%) 
+edges                15313/256000      61252/1024000  ( 6.0%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            333/32768        3330/327680   ( 1.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4545/65536        9090/131072   ( 6.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     5614976/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      103614/16777216 ( 0.6%) 
+entdata               [variable]        8229/393216   ( 2.1%) 
+LDR ambient table     2179/65536        8716/262144   ( 3.3%) 
+HDR ambient table     2179/65536        8716/262144   ( 3.3%) 
+LDR leaf ambient       887/65536       24836/1835008  ( 1.4%) 
+HDR leaf ambient      2179/65536       61012/1835008  ( 3.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       86762/0        ( 0.0%) 
+physics               [variable]      278812/4194304  ( 6.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 12663
+Writing d:\art\level design\momentum mod\github\019ports\df_nood_inder\df_nood_inder.bsp
+7 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\019ports\df_nood_inder\df_nood_inder.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\019ports\df_nood_inder\df_nood_inder.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (280918 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 828 texinfos to 757
+Reduced 10 texdatas to 10 (222 bytes to 222)
+Writing D:\Art\Level Design\Momentum Mod\github\019ports\df_nood_inder\df_nood_inder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\019ports\df_nood_inder\df_nood_inder.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 86976, actual size 86762
+1 second elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\019ports\df_nood_inder\df_nood_inder.bsp
+reading d:\art\level design\momentum mod\github\019ports\df_nood_inder\df_nood_inder.prt
+ 731 portalclusters
+1850 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 9596 visible clusters (4.48%)
+Total clusters visible: 214377
+Average clusters visible: 293
+Building PAS...
+Average clusters audible: 532
+visdatasize:102927  compressed from 140352
+writing d:\art\level design\momentum mod\github\019ports\df_nood_inder\df_nood_inder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\019ports\df_nood_inder\df_nood_inder.bsp', but we don't own that location. Allowing.
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\019ports\df_nood_inder\df_nood_inder.bsp
+4953 faces
+1 degenerate faces
+2500644 square feet [360092800.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4952 patches before subdivision
+4952 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1284441, max 856
+transfer lists:   9.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(299, 142, 61)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27, 5, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0851 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  24/1024         1152/49152    ( 2.3%) 
+brushes                791/8192         9492/98304    ( 9.7%) 
+brushsides            5579/65536       44632/524288   ( 8.5%) 
+planes                2948/65536       58960/1310720  ( 4.5%) 
+vertexes              7079/65536       84948/786432   (10.8%) 
+nodes                 2162/65536       69184/2097152  ( 3.3%) 
+texinfos               757/12288       54504/884736   ( 6.2%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4953/65536      277368/3670016  ( 7.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1401/65536       78456/3670016  ( 2.1%) 
+leaves                2187/65536       69984/2097152  ( 3.3%) 
+leaffaces             5533/65536       11066/131072   ( 8.4%) 
+leafbrushes           2524/65536        5048/131072   ( 3.9%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            28203/512000     112812/2048000  ( 5.5%) 
+edges                15416/256000      61664/1024000  ( 6.0%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            334/32768        3340/327680   ( 1.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4563/65536        9126/131072   ( 7.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     5613664/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      102927/16777216 ( 0.6%) 
+entdata               [variable]        8475/393216   ( 2.2%) 
+LDR ambient table     2187/65536        8748/262144   ( 3.3%) 
+HDR ambient table     2187/65536        8748/262144   ( 3.3%) 
+LDR leaf ambient      2781/65536       77868/1835008  ( 4.2%) 
+HDR leaf ambient      2187/65536       61236/1835008  ( 3.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       86762/0        ( 0.0%) 
+physics               [variable]      280918/4194304  ( 6.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 12711
+Writing d:\art\level design\momentum mod\github\019ports\df_nood_inder\df_nood_inder.bsp
+8 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\019ports\df_nood_inder\df_nood_inder.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\019ports\df_nood_inder\df_nood_inder.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (280918 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 828 texinfos to 757
+Reduced 10 texdatas to 10 (222 bytes to 222)
+Writing D:\Art\Level Design\Momentum Mod\github\019ports\df_nood_inder\df_nood_inder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\019ports\df_nood_inder\df_nood_inder.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 86976, actual size 86762
+1 second elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\019ports\df_nood_inder\df_nood_inder.bsp
+reading d:\art\level design\momentum mod\github\019ports\df_nood_inder\df_nood_inder.prt
+ 731 portalclusters
+1850 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 9596 visible clusters (4.48%)
+Total clusters visible: 214377
+Average clusters visible: 293
+Building PAS...
+Average clusters audible: 532
+visdatasize:102927  compressed from 140352
+writing d:\art\level design\momentum mod\github\019ports\df_nood_inder\df_nood_inder.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\019ports\df_nood_inder\df_nood_inder.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\019ports\df_nood_inder\df_nood_inder.bsp
+4953 faces
+1 degenerate faces
+2500644 square feet [360092800.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4952 patches before subdivision
+4952 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1284441, max 856
+transfer lists:   9.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0762 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  24/1024         1152/49152    ( 2.3%) 
+brushes                791/8192         9492/98304    ( 9.7%) 
+brushsides            5579/65536       44632/524288   ( 8.5%) 
+planes                2948/65536       58960/1310720  ( 4.5%) 
+vertexes              7079/65536       84948/786432   (10.8%) 
+nodes                 2162/65536       69184/2097152  ( 3.3%) 
+texinfos               757/12288       54504/884736   ( 6.2%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4953/65536      277368/3670016  ( 7.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1401/65536       78456/3670016  ( 2.1%) 
+leaves                2187/65536       69984/2097152  ( 3.3%) 
+leaffaces             5533/65536       11066/131072   ( 8.4%) 
+leafbrushes           2524/65536        5048/131072   ( 3.9%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            28203/512000     112812/2048000  ( 5.5%) 
+edges                15416/256000      61664/1024000  ( 6.0%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            334/32768        3340/327680   ( 1.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4563/65536        9126/131072   ( 7.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     5613664/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      102927/16777216 ( 0.6%) 
+entdata               [variable]        8188/393216   ( 2.1%) 
+LDR ambient table     2187/65536        8748/262144   ( 3.3%) 
+HDR ambient table     2187/65536        8748/262144   ( 3.3%) 
+LDR leaf ambient       888/65536       24864/1835008  ( 1.4%) 
+HDR leaf ambient      2187/65536       61236/1835008  ( 3.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       86762/0        ( 0.0%) 
+physics               [variable]      280918/4194304  ( 6.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 12711
+Writing d:\art\level design\momentum mod\github\019ports\df_nood_inder\df_nood_inder.bsp
+3 seconds elapsed
