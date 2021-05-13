@@ -176,7 +176,12 @@ sv_differential_aircontrol 0		// (default 1) enables aircontrol when using diffe
 //
 // AD turning
 sv_airstrafeaccelerate 3			// (default 6.7) acceleration when strafing with A/D (CPM only)
-sv_maxairstrafespeed 60				// (default 30) max speed when strafing with A/D (CPM only)
+sv_maxairstrafespeed 60				// (default 30) max speed when strafing with A/D (CPM only
+// Half the amount of control of CPM, but double the acceleration.
+// Keeps the vq3 gameplay feel from being erased from the game just because of adding AD turning.
+// Higher acceleration helps with not feeling punished for having to AD-turn a lot in turn heavy maps.
+// But the acceleration is still lower than regular/halfbeat straight strafing.
+// So you still need to optimize your directional vector and route to get a better time.
 
 
 ////////
