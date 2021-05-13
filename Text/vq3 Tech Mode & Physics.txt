@@ -10,7 +10,7 @@ Maps like this ruleset allows are already played in games like Defrag, Quake2, E
 This mode aims to join the best pieces and core elements of those games together into one unique game.
 
 Custom mmod-defrag physics for the speed mode could be more cpm oriented (i.e. better turning and/or higher speed in general).
-But the vq3-oriented physics in this ruleset (like the stances, for example) could also be used as an alternative to vq3 in the speed mmod-defrag mode.
+But the vq3-oriented physics in this ruleset could also be used as an alternative to vq3 in the speed mmod-defrag mode.
 
 ************************************
 Potential names for the physics (needs revision):
