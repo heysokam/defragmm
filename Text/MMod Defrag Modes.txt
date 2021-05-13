@@ -1,3 +1,11 @@
+************************************
+****Deprecated****
+**** It has been explained that this could be implemented through UI/UX design,
+**** with Tag filtering of the leaderboards, instead of gamemode differentiation.
+**** Discord conversation about it (starting point, conversation was rather extensive):
+**** https://discord.com/channels/235111289435717633/733230720079757332/842305960785346570
+**** I'll this keep file only for reference for Tags design.
+************************************
 Defrag Modes:
 Definition, ideas, examples and reasoning behind each of them
 *********************************************
@@ -59,3 +67,25 @@ Tech mode:
 Tricks mode:
 - Freestyle defrag is really fun, but it's underplayed because most people are not creative enough to come up with their own tricks. Specially when starting out in the mode.
 - Having the same backbone as tricksurfing, where players can design tricks for everyone to try, makes freestyle more accessible for average defrag runners that might not be so creative, and gives those creative players another reason to keep designing jumps and build a community around this mode.
+
+*********************************************
+Potential names for the modes:
+- Speed defrag:
+-- Time & Speed oriented mode (aka regular defrag)
+-- (?speed-defrag or defrag-speed?)
+-- Map prefix: df_
+
+- Tech defrag:
+-- For the tricks/technically oriented mode proposed in this text.
+-- "Tricks" might conflict in naming with tricksurfing, which is the equivalent to "freestyle" in defrag
+-- Map prefix: dft_
+
+- Potential "Freestyle defrag" mode
+-- Called "Tricks Defrag" in reference to tricksurfing.
+-- Would be a good option to choose the "tech" word for the previous one, in case a freestyle mode wants to be added to defrag-mmod in the future, based on the backbone already developed for mmod-tricksurfing.
+--- Video reference of what's possible in Freestyle defrag (aka defrag tricks): https://www.youtube.com/watch?v=UYbQIsAtlnY
+
+Defrag community currently references "tech" maps (like CS tech) by the name "trickmaps".
+
+In this text I wont be talking about freestyle tricks.
+I'm gonna be refering to the so called "tech defrag" mode the whole time.

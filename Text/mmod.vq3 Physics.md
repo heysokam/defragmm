@@ -103,7 +103,7 @@ Features:
 		--- Sliding stance: Augments sliding power (including both ramps and slide triggers). Reduces Height and Control power  
 		--- Height stance: Augments vertical speed acceleration. Reduces Speed and Control power.  
 			---- (including additive jumps and cpm-based ramp jumps. shouldn't affect catapult/push triggers)  
-		--- Speed stance: Augments/optimizes horizontal acceleration. Reduces Height and Sliding power
+		--- Speed stance: Augments/optimizes horizontal acceleration. Reduces Height and Sliding power  
 		--- Control stance: (greatly?) Reduced acceleration in all directions (included sliding, additive jumps, etc). Augments air/ground control power.  
 			---- Goal of control stance: Fine control, torture-esque maps, avoiding obstacles (improved breaking+handling), tiny platforms.  
 
@@ -140,7 +140,7 @@ Cvar values:
 ////////  
 //// vq3 good parts  
 ////////  
-sv_differentialstrafing 1		// (default 0) enables strafing differently depending on the wishdir angle to the velocity.
+sv_differentialstrafing 1		// (default 0) enables strafing differently depending on the wishdir angle to the velocity.  
 // Strafing with halfbeat is a really nice feeling you can normally only have in vq3.  
 // Mixing AD turning with Halfbeat is really unique, and I think it should be the core of mmod physics settings, which cannot be enjoyed in any other game   
 //  
