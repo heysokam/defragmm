@@ -7,7 +7,7 @@ Tech Defrag gamemode (tag):
 Definition, Ruleset, Concepts and Reference Examples
 ************************************
 
-This text explains the idea for a vq3-oriented trickjumps/tech mode, based around the code that Lumia is writing for mmod defrag.  
+This text explains the idea for a vq3-oriented trickjumps/tech mode (tag), based around the code that Lumia is writing for mmod defrag.  
 It has the same root physics of vq3, but with added technical mechanics that give mappers tools to also design around difficulty-of-completion value, and not only time-to-complete in isolation.  
 Time-to-complete should be important too, just not the only core goal like in regular strafing/weapons defrag maps.  
 
@@ -19,12 +19,11 @@ But the vq3-oriented physics in this ruleset could also be used as an alternativ
 
 ************************************
 Potential names for the physics (needs revision):  
-- Speed mmod-Defrag: Custom mmod-defrag ruleset, CPM oriented (pending definition).  
-- Tech mmod-defrag: Custom mmod-defrag ruleset, VQ3 oriented (detailed in this text).  
-- Classic df.cpm: Classic 1:1 defrag cpm physics.  
-- Classic df.vq3: Classic 1:1 defrag vq3 physics.  
-	(the word "vanilla" is already used to refer to vq3)  
-
+- mmod.CPM: Custom mmod-defrag ruleset, CPM oriented (pending definition).  
+- mmod.VQ3: Custom mmod-defrag ruleset, VQ3 oriented (detailed in this text).  
+- Classic CPM: Classic 1:1 defrag cpm physics.  
+- Classic VQ3: Classic 1:1 defrag vq3 physics.  
+	(the word "vanilla" is already used to refer to vq3, so using "classic" instead)  
 ************************************
 
 Features:  
