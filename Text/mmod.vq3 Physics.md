@@ -35,7 +35,7 @@ Features:
 	-- Increased AD acceleration. Inferior to regular strafing, but stronger than cpm accel.  
 	(cvar values for testing these are provided at the end)  
 
-- vq3 ground acceleration values (for circlejumping, sliding)  
+- vq3 ground acceleration values (for circlejumping, ?sliding?)  
 - cpm sliding power values  
 
 - No snapzones  
