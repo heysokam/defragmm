@@ -2,6 +2,8 @@
 ****Deprecated****
 **** It has been explained that this could be implemented through UI/UX design,
 **** with Tag filtering of the leaderboards, instead of gamemode differentiation.
+**** Physics separation could potentially be implemented into the map,
+**** even specific/different in different tracks of one map.
 **** Discord conversation about it (starting point, conversation was rather extensive):
 **** https://discord.com/channels/235111289435717633/733230720079757332/842305960785346570
 **** I'll this keep file only for reference for Tags design.
