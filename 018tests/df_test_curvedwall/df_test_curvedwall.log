@@ -1,0 +1,911 @@
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 54 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (26521 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 35 texinfos to 11
+Reduced 5 texdatas to 5 (118 bytes to 118)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.prt
+   8 portalclusters
+  11 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 64
+Average clusters visible: 8
+Building PAS...
+Average clusters audible: 8
+visdatasize:84  compressed from 128
+writing d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+179 faces
+44260 square feet [6373444.50 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+179 patches before subdivision
+179 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10291, max 108
+transfer lists:   0.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0016 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 72/8192          864/98304    ( 0.9%) 
+brushsides             750/65536        6000/524288   ( 1.1%) 
+planes                 928/65536       18560/1310720  ( 1.4%) 
+vertexes               335/65536        4020/786432   ( 0.5%) 
+nodes                   41/65536        1312/2097152  ( 0.1%) 
+texinfos                11/12288         792/884736   ( 0.1%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  179/65536       10024/3670016  ( 0.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              128/65536        7168/3670016  ( 0.2%) 
+leaves                  43/65536        1376/2097152  ( 0.1%) 
+leaffaces              183/65536         366/131072   ( 0.3%) 
+leafbrushes            105/65536         210/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1272/512000       5088/2048000  ( 0.2%) 
+edges                  903/256000       3612/1024000  ( 0.4%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              6/32768          60/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            81/65536         162/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      140908/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          84/16777216 ( 0.0%) 
+entdata               [variable]         356/393216   ( 0.1%) 
+LDR ambient table       43/65536         172/262144   ( 0.1%) 
+HDR ambient table       43/65536         172/262144   ( 0.1%) 
+LDR leaf ambient         8/65536         224/1835008  ( 0.0%) 
+HDR leaf ambient        43/65536        1204/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       26521/4194304  ( 0.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 402
+Writing d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38073 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 47 texinfos to 21
+Reduced 7 texdatas to 7 (168 bytes to 168)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.prt
+  12 portalclusters
+  18 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 142
+Average clusters visible: 11
+Building PAS...
+Average clusters audible: 12
+visdatasize:148  compressed from 192
+writing d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+327 faces
+4 degenerate faces
+48020 square feet [6915018.50 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+323 patches before subdivision
+323 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 19029, max 176
+transfer lists:   0.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0014 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                104/8192         1248/98304    ( 1.3%) 
+brushsides            1108/65536        8864/524288   ( 1.7%) 
+planes                1452/65536       29040/1310720  ( 2.2%) 
+vertexes               610/65536        7320/786432   ( 0.9%) 
+nodes                   48/65536        1536/2097152  ( 0.1%) 
+texinfos                21/12288        1512/884736   ( 0.2%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  327/65536       18312/3670016  ( 0.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              221/65536       12376/3670016  ( 0.3%) 
+leaves                  50/65536        1600/2097152  ( 0.1%) 
+leaffaces              356/65536         712/131072   ( 0.5%) 
+leafbrushes            150/65536         300/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2354/512000       9416/2048000  ( 0.5%) 
+edges                 1559/256000       6236/1024000  ( 0.6%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             33/32768         330/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           561/65536        1122/131072   ( 0.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      167260/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         148/16777216 ( 0.0%) 
+entdata               [variable]         356/393216   ( 0.1%) 
+LDR ambient table       50/65536         200/262144   ( 0.1%) 
+HDR ambient table       50/65536         200/262144   ( 0.1%) 
+LDR leaf ambient        12/65536         336/1835008  ( 0.0%) 
+HDR leaf ambient        50/65536        1400/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       38073/4194304  ( 0.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 816
+Writing d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38105 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 47 texinfos to 16
+Reduced 7 texdatas to 6 (168 bytes to 143)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.prt
+   9 portalclusters
+  12 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 79
+Average clusters visible: 8
+Building PAS...
+Average clusters audible: 9
+visdatasize:112  compressed from 144
+writing d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+247 faces
+47662 square feet [6863466.50 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+247 patches before subdivision
+247 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 16610, max 136
+transfer lists:   0.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0014 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                104/8192         1248/98304    ( 1.3%) 
+brushsides            1108/65536        8864/524288   ( 1.7%) 
+planes                1450/65536       29000/1310720  ( 2.2%) 
+vertexes               550/65536        6600/786432   ( 0.8%) 
+nodes                   43/65536        1376/2097152  ( 0.1%) 
+texinfos                16/12288        1152/884736   ( 0.1%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  247/65536       13832/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              186/65536       10416/3670016  ( 0.3%) 
+leaves                  45/65536        1440/2097152  ( 0.1%) 
+leaffaces              255/65536         510/131072   ( 0.4%) 
+leafbrushes            150/65536         300/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1829/512000       7316/2048000  ( 0.4%) 
+edges                 1336/256000       5344/1024000  ( 0.5%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             19/32768         190/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           285/65536         570/131072   ( 0.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      161828/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         112/16777216 ( 0.0%) 
+entdata               [variable]         356/393216   ( 0.1%) 
+LDR ambient table       45/65536         180/262144   ( 0.1%) 
+HDR ambient table       45/65536         180/262144   ( 0.1%) 
+LDR leaf ambient         9/65536         252/1835008  ( 0.0%) 
+HDR leaf ambient        45/65536        1260/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       38105/4194304  ( 0.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 591
+Writing d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38497 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 52 texinfos to 17
+Reduced 8 texdatas to 7 (186 bytes to 161)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.prt
+   9 portalclusters
+  12 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 79
+Average clusters visible: 8
+Building PAS...
+Average clusters audible: 9
+visdatasize:112  compressed from 144
+writing d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+247 faces
+47662 square feet [6863466.50 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+247 patches before subdivision
+247 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 16610, max 136
+transfer lists:   0.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0017 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                116/8192         1392/98304    ( 1.4%) 
+brushsides            1198/65536        9584/524288   ( 1.8%) 
+planes                1530/65536       30600/1310720  ( 2.3%) 
+vertexes               550/65536        6600/786432   ( 0.8%) 
+nodes                   43/65536        1376/2097152  ( 0.1%) 
+texinfos                17/12288        1224/884736   ( 0.1%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  247/65536       13832/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              186/65536       10416/3670016  ( 0.3%) 
+leaves                  45/65536        1440/2097152  ( 0.1%) 
+leaffaces              255/65536         510/131072   ( 0.4%) 
+leafbrushes            151/65536         302/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1829/512000       7316/2048000  ( 0.4%) 
+edges                 1336/256000       5344/1024000  ( 0.5%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             19/32768         190/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           285/65536         570/131072   ( 0.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      161828/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         112/16777216 ( 0.0%) 
+entdata               [variable]         356/393216   ( 0.1%) 
+LDR ambient table       45/65536         180/262144   ( 0.1%) 
+HDR ambient table       45/65536         180/262144   ( 0.1%) 
+LDR leaf ambient         9/65536         252/1835008  ( 0.0%) 
+HDR leaf ambient        45/65536        1260/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       38497/4194304  ( 0.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 591
+Writing d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38497 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 52 texinfos to 17
+Reduced 8 texdatas to 7 (186 bytes to 161)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.prt
+   9 portalclusters
+  12 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 79
+Average clusters visible: 8
+Building PAS...
+Average clusters audible: 9
+visdatasize:112  compressed from 144
+writing d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+247 faces
+47662 square feet [6863466.50 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+247 patches before subdivision
+247 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 16610, max 136
+transfer lists:   0.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0014 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                116/8192         1392/98304    ( 1.4%) 
+brushsides            1198/65536        9584/524288   ( 1.8%) 
+planes                1530/65536       30600/1310720  ( 2.3%) 
+vertexes               550/65536        6600/786432   ( 0.8%) 
+nodes                   43/65536        1376/2097152  ( 0.1%) 
+texinfos                17/12288        1224/884736   ( 0.1%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  247/65536       13832/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              186/65536       10416/3670016  ( 0.3%) 
+leaves                  45/65536        1440/2097152  ( 0.1%) 
+leaffaces              255/65536         510/131072   ( 0.4%) 
+leafbrushes            151/65536         302/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1829/512000       7316/2048000  ( 0.4%) 
+edges                 1336/256000       5344/1024000  ( 0.5%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             19/32768         190/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           285/65536         570/131072   ( 0.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      161828/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         112/16777216 ( 0.0%) 
+entdata               [variable]         356/393216   ( 0.1%) 
+LDR ambient table       45/65536         180/262144   ( 0.1%) 
+HDR ambient table       45/65536         180/262144   ( 0.1%) 
+LDR leaf ambient         9/65536         252/1835008  ( 0.0%) 
+HDR leaf ambient        45/65536        1260/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       38497/4194304  ( 0.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 591
+Writing d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (41609 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 54 texinfos to 21
+Reduced 8 texdatas to 7 (193 bytes to 168)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.prt
+  10 portalclusters
+  15 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 98
+Average clusters visible: 9
+Building PAS...
+Average clusters audible: 10
+visdatasize:124  compressed from 160
+writing d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+311 faces
+47263 square feet [6805949.50 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+311 patches before subdivision
+311 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 21104, max 182
+transfer lists:   0.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0014 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                116/8192         1392/98304    ( 1.4%) 
+brushsides            1198/65536        9584/524288   ( 1.8%) 
+planes                1532/65536       30640/1310720  ( 2.3%) 
+vertexes               679/65536        8148/786432   ( 1.0%) 
+nodes                   56/65536        1792/2097152  ( 0.1%) 
+texinfos                21/12288        1512/884736   ( 0.2%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  311/65536       17416/3670016  ( 0.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              208/65536       11648/3670016  ( 0.3%) 
+leaves                  58/65536        1856/2097152  ( 0.1%) 
+leaffaces              351/65536         702/131072   ( 0.5%) 
+leafbrushes            236/65536         472/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2242/512000       8968/2048000  ( 0.4%) 
+edges                 1570/256000       6280/1024000  ( 0.6%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             31/32768         310/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           468/65536         936/131072   ( 0.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      167764/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         124/16777216 ( 0.0%) 
+entdata               [variable]         356/393216   ( 0.1%) 
+LDR ambient table       58/65536         232/262144   ( 0.1%) 
+HDR ambient table       58/65536         232/262144   ( 0.1%) 
+LDR leaf ambient        10/65536         280/1835008  ( 0.0%) 
+HDR leaf ambient        58/65536        1624/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       41609/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 799
+Writing d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 210 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (41313 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 54 texinfos to 21
+Reduced 8 texdatas to 7 (193 bytes to 168)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.prt
+   9 portalclusters
+  12 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 79
+Average clusters visible: 8
+Building PAS...
+Average clusters audible: 9
+visdatasize:112  compressed from 144
+writing d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+270 faces
+49482 square feet [7125539.50 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+270 patches before subdivision
+270 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 18929, max 141
+transfer lists:   0.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0015 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                116/8192         1392/98304    ( 1.4%) 
+brushsides            1198/65536        9584/524288   ( 1.8%) 
+planes                1532/65536       30640/1310720  ( 2.3%) 
+vertexes               623/65536        7476/786432   ( 1.0%) 
+nodes                   43/65536        1376/2097152  ( 0.1%) 
+texinfos                21/12288        1512/884736   ( 0.2%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  270/65536       15120/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              206/65536       11536/3670016  ( 0.3%) 
+leaves                  45/65536        1440/2097152  ( 0.1%) 
+leaffaces              279/65536         558/131072   ( 0.4%) 
+leafbrushes            161/65536         322/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2002/512000       8008/2048000  ( 0.4%) 
+edges                 1455/256000       5820/1024000  ( 0.6%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             18/32768         180/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           282/65536         564/131072   ( 0.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      169920/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         112/16777216 ( 0.0%) 
+entdata               [variable]         356/393216   ( 0.1%) 
+LDR ambient table       45/65536         180/262144   ( 0.1%) 
+HDR ambient table       45/65536         180/262144   ( 0.1%) 
+LDR leaf ambient         9/65536         252/1835008  ( 0.0%) 
+HDR leaf ambient        45/65536        1260/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       41313/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 649
+Writing d:\art\level design\momentum mod\github\018tests\df_test_curvedwall\df_test_curvedwall.bsp
+0 seconds elapsed
