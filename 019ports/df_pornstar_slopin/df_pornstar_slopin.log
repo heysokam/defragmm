@@ -662,3 +662,261 @@ Level flags = 0
 Total triangle count: 8118
 Writing d:\art\level design\momentum mod\github\019ports\df_pornstar_slopin\df_pornstar_slopin.bsp
 26 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\019ports\df_pornstar_slopin\df_pornstar_slopin.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\019ports\df_pornstar_slopin\df_pornstar_slopin.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (163021 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 100 texinfos to 51
+Reduced 6 texdatas to 6 (121 bytes to 121)
+Writing D:\Art\Level Design\Momentum Mod\github\019ports\df_pornstar_slopin\df_pornstar_slopin.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\019ports\df_pornstar_slopin\df_pornstar_slopin.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 86996, actual size 86782
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\019ports\df_pornstar_slopin\df_pornstar_slopin.bsp
+reading d:\art\level design\momentum mod\github\019ports\df_pornstar_slopin\df_pornstar_slopin.prt
+   2 portalclusters
+   0 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 2
+Average clusters visible: 1
+Building PAS...
+Average clusters audible: 1
+visdatasize:24  compressed from 32
+writing d:\art\level design\momentum mod\github\019ports\df_pornstar_slopin\df_pornstar_slopin.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\019ports\df_pornstar_slopin\df_pornstar_slopin.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\019ports\df_pornstar_slopin\df_pornstar_slopin.bsp
+3645 faces
+16552565 square feet [2383569408.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3645 patches before subdivision
+3645 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 822275, max 629
+transfer lists:   6.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0048 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                485/8192         5820/98304    ( 5.9%) 
+brushsides            3269/65536       26152/524288   ( 5.0%) 
+planes                1036/65536       20720/1310720  ( 1.6%) 
+vertexes              4381/65536       52572/786432   ( 6.7%) 
+nodes                 2675/65536       85600/2097152  ( 4.1%) 
+texinfos                51/12288        3672/884736   ( 0.4%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3645/65536      204120/3670016  ( 5.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1321/65536       73976/3670016  ( 2.0%) 
+leaves                2681/65536       85792/2097152  ( 4.1%) 
+leaffaces             3878/65536        7756/131072   ( 5.9%) 
+leafbrushes           2447/65536        4894/131072   ( 3.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            20687/512000      82748/2048000  ( 4.0%) 
+edges                10984/256000      43936/1024000  ( 4.3%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            112/32768        1120/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1398/65536        2796/131072   ( 2.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      211552/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          24/16777216 ( 0.0%) 
+entdata               [variable]        2119/393216   ( 0.5%) 
+LDR ambient table     2681/65536       10724/262144   ( 4.1%) 
+HDR ambient table     2681/65536       10724/262144   ( 4.1%) 
+LDR leaf ambient     20274/65536      567672/1835008  (30.9%) 
+HDR leaf ambient      2681/65536       75068/1835008  ( 4.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       86782/0        ( 0.0%) 
+physics               [variable]      163021/4194304  ( 3.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 8118
+Writing d:\art\level design\momentum mod\github\019ports\df_pornstar_slopin\df_pornstar_slopin.bsp
+41 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\019ports\df_pornstar_slopin\df_pornstar_slopin.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\019ports\df_pornstar_slopin\df_pornstar_slopin.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (163021 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 100 texinfos to 51
+Reduced 6 texdatas to 6 (121 bytes to 121)
+Writing D:\Art\Level Design\Momentum Mod\github\019ports\df_pornstar_slopin\df_pornstar_slopin.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\019ports\df_pornstar_slopin\df_pornstar_slopin.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 86996, actual size 86782
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\019ports\df_pornstar_slopin\df_pornstar_slopin.bsp
+reading d:\art\level design\momentum mod\github\019ports\df_pornstar_slopin\df_pornstar_slopin.prt
+   2 portalclusters
+   0 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 2
+Average clusters visible: 1
+Building PAS...
+Average clusters audible: 1
+visdatasize:24  compressed from 32
+writing d:\art\level design\momentum mod\github\019ports\df_pornstar_slopin\df_pornstar_slopin.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\019ports\df_pornstar_slopin\df_pornstar_slopin.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\019ports\df_pornstar_slopin\df_pornstar_slopin.bsp
+3638 faces
+16552567 square feet [2383569664.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3638 patches before subdivision
+3638 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 819423, max 626
+transfer lists:   6.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0048 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                485/8192         5820/98304    ( 5.9%) 
+brushsides            3269/65536       26152/524288   ( 5.0%) 
+planes                1036/65536       20720/1310720  ( 1.6%) 
+vertexes              4365/65536       52380/786432   ( 6.7%) 
+nodes                 2671/65536       85472/2097152  ( 4.1%) 
+texinfos                51/12288        3672/884736   ( 0.4%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3638/65536      203728/3670016  ( 5.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1323/65536       74088/3670016  ( 2.0%) 
+leaves                2677/65536       85664/2097152  ( 4.1%) 
+leaffaces             3872/65536        7744/131072   ( 5.9%) 
+leafbrushes           2444/65536        4888/131072   ( 3.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            20644/512000      82576/2048000  ( 4.0%) 
+edges                10962/256000      43848/1024000  ( 4.3%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            102/32768        1020/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1281/65536        2562/131072   ( 2.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      211236/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          24/16777216 ( 0.0%) 
+entdata               [variable]        2259/393216   ( 0.6%) 
+LDR ambient table     2677/65536       10708/262144   ( 4.1%) 
+HDR ambient table     2677/65536       10708/262144   ( 4.1%) 
+LDR leaf ambient     20259/65536      567252/1835008  (30.9%) 
+HDR leaf ambient      2677/65536       74956/1835008  ( 4.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       86782/0        ( 0.0%) 
+physics               [variable]      163021/4194304  ( 3.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 8081
+Writing d:\art\level design\momentum mod\github\019ports\df_pornstar_slopin\df_pornstar_slopin.bsp
+29 seconds elapsed

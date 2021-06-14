@@ -126,45 +126,34 @@ Gocnak:
 - Examples  
 - A mode is pretty self contained with its identity and features.  
 
-************************************
-Cvar values:  
-- You can copy&paste everything AFTER the three asterisk rows into a FILENAME.cfg file (I always use phys_sokam.cfg)  
-- Place the file inside the momentum cfg folder ("GAMEFOLDER/momentum/cfg" where GAMEFOLDER is the root of your mmod installation folder)  
-- Open console, and execute "exec FILENAME", where FILENAME is the name you set (in my case, "exec phys_sokam")  
-- The game needs to be launched with the "-mapping" command added to the launching shortcut, or these variables wont work.  
-************************************
-************************************
-************************************
 
 ////////  
 //// vq3 good parts  
 ////////  
-sv_differentialstrafing 1		// (default 0) enables strafing differently depending on the wishdir angle to the velocity.  
+sv_strafestyle 3		// (default 0) enables strafing differently depending on the wishdir angle to the velocity.  
 // Strafing with halfbeat is a really nice feeling you can normally only have in vq3.  
 // Mixing AD turning with Halfbeat is really unique, and I think it should be the core of mmod physics settings, which cannot be enjoyed in any other game   
 //  
-sv_cpm_accelmult 1				// (default 1.5) the factor to multiply ground acceleration by in CPM  
+sv_accelerate 10				// (default 10) the amount of ground acceleration
 // Having the slower start of vq3 is one of the ways the physics could be controlled, which also helps maintaining the vq3 core feel of the game.  
 // Another value to be considered for ground accel might be 0.85 or 0.9 (0.75 seems too slow). This would make vq3 circlejump heavy maps ported from defrag much more difficult to clear. Might not be a good thing, just to compensate for differential. But should be reconsidered to balance slide surfaces speed increases in relation to overall acceleration speeds. Slide power might be able to be balanced programatically in other ways (i.e. unique sliding cvars)  
 
 ////////  
 //// cpm good parts  
 ////////  
-sv_cpm_physics 1					// enables CPMA physics. dj, ramp jump, tele jumps  
-//  
 // W turning:  
 // Makes the game more accessible to new players. But it also dumbs down the skill requirement of some maps.  
-// Does not work well with differential, because it removes the need to control your directional vector at all, removing a core vq3 element/mechanic with it.  
-sv_differential_aircontrol 0		// (default 1) enables aircontrol when using differential strafing. activated when wishdir is less than the minimum q3 strafe angle.  
+// Does not work well with differential-vq3-style, because it removes the need to control your directional vector at all, removing a core vq3 element/mechanic with it.  
 //  
 // AD turning  
-sv_airstrafeaccelerate 3			// (default 6.7) acceleration when strafing with A/D (CPM only)  
-sv_maxairstrafespeed 60				// (default 30) max speed when strafing with A/D (CPM only  
 // Half the amount of control of CPM, but double the acceleration.  
 // Keeps the vq3 gameplay feel from being erased from the game just because of adding AD turning.  
 // Higher acceleration helps with not feeling punished for having to AD-turn a lot in turn heavy maps.  
 // But the acceleration is still lower than regular/halfbeat straight strafing.  
 // So you still need to optimize your directional vector and route to get a better time.  
+sv_aircontrol_enable 0				// (default 1) enables aircontrol. activated when wishdir is less than the minimum q3 strafe angle.  
+sv_maxairstrafespeed 60				// (default 30) max speed when strafing with A/D (CPM only  
+sv_airstrafeaccelerate 3			// (default 6.7) acceleration when strafing with A/D (CPM only)  
 
 
 ////////  
@@ -180,4 +169,4 @@ sv_scalecmd_fix 1				// fixes slowdown on jump input if enabled (default defrag 
 //////// Autojump, plus removing slowdown on jump (currently -50%, not configurable, so it is disabled for now)  
 ////////  
 ////////  
-//////// Other mechanics will be added here when they are implemented.  
+//////// ToDo: Additive jumps cvars 
