@@ -16,9 +16,9 @@ _..._
 _Rename bsp map file to df_MAPNAME.bsp for them to load defrag physics automatically._  
 _Otherwise, you'll need to write "mom_gamemode_override 10" before loading the map, everytime._  
 
-Test maps:
-_Made for testing different things about the physics._
-_Please request a map on mmod-discord if you want to try something but there's no map made for it yet._
+Test maps:  
+_Made for testing different things about the physics._  
+_Please request a map on mmod-discord if you want to try something but there's no map made for it yet._  
 - df_test_box (simple square box for turning around in a small-ish space)
 - df_test_circlejump (240to480u in 20u increases, for testing circlejumps)
 - df_test_gridlimits (visual representation of the current maximum size of a map. timed. 32k^3 units)
