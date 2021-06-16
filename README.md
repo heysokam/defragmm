@@ -3,20 +3,20 @@
  Defrag: Momentum Mod  
  by sOkam!#9578
 ***
-##### Strafing maps:
+### Strafing maps:
 - df_cpmjump1 (for testing ad-turning)
 - df_pornstar_slopin (for testing ramps down and high speed strafing)
 - df_nood_inder (for testing ramps up and strafing in real situations)
 - df_r7_tech (fun strafe map, with emphasis in AD strafing)
 
-##### Bhop_ maps that play well on mmod.Defrag:   
+### Bhop_ maps that play well on mmod.Defrag:   
 - bhop_tron_evolution (Amazing for ramps up+down and strafing. 10/10. Link: https://gamebanana.com/mods/289480)  
 
 _..._   
 _Rename bsp map file to df_MAPNAME.bsp for them to load defrag physics automatically._  
 _Otherwise, you'll need to write "mom_gamemode_override 10" before loading the map, everytime._  
 
-##### Test maps:  
+### Test maps:  
 - df_test_box (simple square box for turning around in a small-ish space)
 - df_test_circlejump (240to480u in 20u increases, for testing circlejumps)
 - df_test_gridlimits (visual representation of the current maximum size of a map. timed. 32k^3 units)
@@ -29,13 +29,13 @@ _Otherwise, you'll need to write "mom_gamemode_override 10" before loading the m
 _Made for testing different things about the physics._  
 _Please request a map on mmod-discord if you want to try something but there's no map made for it yet._  
 
-##### Challenge maps:
+### Challenge maps:
 - df_infernus (expert strafing pads)
 - df_palmslane (expert strafing pads, slightly easier than infernus)
 - df_kairos_20min (easy-ish and short-ish torture map. emphasis on "ish")
 - df_stonerun2 (trickmap with short torture-like section)
 
-##### Others:
+### Others:
 - b0_beta6: It has only been textured. Needs a lot of work to connect teleport locations & doors.
 ***  
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
