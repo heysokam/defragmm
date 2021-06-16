@@ -9,13 +9,14 @@ Strafing maps:
 - df_nood_inder (for testing ramps up and strafing in real situations)
 - df_r7_tech (fun strafe map, with emphasis in AD strafing)
 
-Challenge maps:
-- df_infernus (expert strafing pads)
-- df_palmslane (expert strafing pads, slightly easier than infernus)
-- df_kairos_20min (easy-ish and short-ish torture map. emphasis on "ish")
-- df_stonerun2 (trickmap with short torture-like section)
+Bhop_ maps that play well on mmod.Defrag:
+_Rename bsp map file to df_MAPNAME.bsp for them to load defrag physics automatically._
+_Otherwise, you'll need to write "mom_gamemode_override 10" before loading the map, everytime._
+- bhop_tron_evolution (Amazing for ramps up+down and strafing. 10/10. Link: https://gamebanana.com/mods/289480)
 
 Test maps:
+_Made for testing different things about the physics._
+_Please request a map on mmod-discord if you want to try something but there's no map made for it yet._
 - df_test_box (simple square box for turning around in a small-ish space)
 - df_test_circlejump (240to480u in 20u increases, for testing circlejumps)
 - df_test_gridlimits (visual representation of the current maximum size of a map. timed. 32k^3 units)
@@ -24,6 +25,12 @@ Test maps:
 - df_test_curvedwall (simple room, with different types geometry for curved walls)
 - df_test_multijumps (for testing multijumps of different heights and depths)
 - df_stairwaytoheaven (silly map for practicing additive multijumps. Left is +30u, right is +40u and mid is +40u deep and +40u high)
+
+Challenge maps:
+- df_infernus (expert strafing pads)
+- df_palmslane (expert strafing pads, slightly easier than infernus)
+- df_kairos_20min (easy-ish and short-ish torture map. emphasis on "ish")
+- df_stonerun2 (trickmap with short torture-like section)
 
 Others:
 - b0_beta6: It has only been textured. Needs a lot of work to connect teleport locations & doors.
