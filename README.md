@@ -9,9 +9,9 @@ Strafing maps:
 - df_nood_inder (for testing ramps up and strafing in real situations)
 - df_r7_tech (fun strafe map, with emphasis in AD strafing)
 
-Bhop_ maps that play well on mmod.Defrag:
-_Rename bsp map file to df_MAPNAME.bsp for them to load defrag physics automatically._
-_Otherwise, you'll need to write "mom_gamemode_override 10" before loading the map, everytime._
+Bhop_ maps that play well on mmod.Defrag:  
+_Rename bsp map file to df_MAPNAME.bsp for them to load defrag physics automatically._  
+_Otherwise, you'll need to write "mom_gamemode_override 10" before loading the map, everytime._  
 - bhop_tron_evolution (Amazing for ramps up+down and strafing. 10/10. Link: https://gamebanana.com/mods/289480)
 
 Test maps:
