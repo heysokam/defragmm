@@ -1138,3 +1138,3428 @@ Level flags = 0
 Total triangle count: 704
 Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
 0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10WARNING: node without a volume
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (65536.000000, 65536.000000, 2600.000000))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (65536.000000, 65536.000000, 2600.000000))
+WARNING: node without a volume
+WARNING: node without a volume
+WARNING: node without a volume
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+LoadPortals: couldn't read d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+275 faces
+77332 square feet [11135872.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0028 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 28/8192          336/98304    ( 0.3%) 
+brushsides             168/65536        1344/524288   ( 0.3%) 
+planes                 132/65536        2640/1310720  ( 0.2%) 
+vertexes               333/65536        3996/786432   ( 0.5%) 
+nodes                  152/65536        4864/2097152  ( 0.2%) 
+texinfos                48/12288        3456/884736   ( 0.4%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  275/65536       15400/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              117/65536        6552/3670016  ( 0.2%) 
+leaves                 155/65536        4960/2097152  ( 0.2%) 
+leaffaces              353/65536         706/131072   ( 0.5%) 
+leafbrushes             67/65536         134/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1722/512000       6888/2048000  ( 0.3%) 
+edges                  890/256000       3560/1024000  ( 0.3%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             16/32768         160/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           246/65536         492/131072   ( 0.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      190024/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2076/16777216 ( 0.0%) 
+entdata               [variable]        1200/393216   ( 0.3%) 
+LDR ambient table      155/65536         620/262144   ( 0.2%) 
+HDR ambient table      155/65536         620/262144   ( 0.2%) 
+LDR leaf ambient       832/65536       23296/1835008  ( 1.3%) 
+HDR leaf ambient       155/65536        4340/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      121203/0        ( 0.0%) 
+physics               [variable]       10417/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 704
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10WARNING: node without a volume
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (65536.000000, 65536.000000, 2600.000000))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (65536.000000, 65536.000000, 2600.000000))
+WARNING: node without a volume
+WARNING: node without a volume
+WARNING: node without a volume
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+LoadPortals: couldn't read d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+275 faces
+77332 square feet [11135872.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0023 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 28/8192          336/98304    ( 0.3%) 
+brushsides             168/65536        1344/524288   ( 0.3%) 
+planes                 132/65536        2640/1310720  ( 0.2%) 
+vertexes               333/65536        3996/786432   ( 0.5%) 
+nodes                  152/65536        4864/2097152  ( 0.2%) 
+texinfos                48/12288        3456/884736   ( 0.4%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  275/65536       15400/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              117/65536        6552/3670016  ( 0.2%) 
+leaves                 155/65536        4960/2097152  ( 0.2%) 
+leaffaces              353/65536         706/131072   ( 0.5%) 
+leafbrushes             67/65536         134/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1722/512000       6888/2048000  ( 0.3%) 
+edges                  890/256000       3560/1024000  ( 0.3%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             16/32768         160/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           246/65536         492/131072   ( 0.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      190024/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2076/16777216 ( 0.0%) 
+entdata               [variable]        1200/393216   ( 0.3%) 
+LDR ambient table      155/65536         620/262144   ( 0.2%) 
+HDR ambient table      155/65536         620/262144   ( 0.2%) 
+LDR leaf ambient       832/65536       23296/1835008  ( 1.3%) 
+HDR leaf ambient       155/65536        4340/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      121203/0        ( 0.0%) 
+physics               [variable]       10417/4194304  ( 0.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 704
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (19969 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 84 texinfos to 68
+Reduced 7 texdatas to 7 (117 bytes to 117)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+ 101 portalclusters
+ 347 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 128 visible clusters (1.41%)
+Total clusters visible: 9067
+Average clusters visible: 89
+Building PAS...
+Average clusters audible: 101
+visdatasize:3438  compressed from 3232
+writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+577 faces
+225870 square feet [32525312.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0069 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 55/8192          660/98304    ( 0.7%) 
+brushsides             330/65536        2640/524288   ( 0.5%) 
+planes                 214/65536        4280/1310720  ( 0.3%) 
+vertexes               661/65536        7932/786432   ( 1.0%) 
+nodes                  201/65536        6432/2097152  ( 0.3%) 
+texinfos                68/12288        4896/884736   ( 0.6%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  577/65536       32312/3670016  ( 0.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              266/65536       14896/3670016  ( 0.4%) 
+leaves                 204/65536        6528/2097152  ( 0.3%) 
+leaffaces              697/65536        1394/131072   ( 1.1%) 
+leafbrushes            116/65536         232/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             3662/512000      14648/2048000  ( 0.7%) 
+edges                 1920/256000       7680/1024000  ( 0.8%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             35/32768         350/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           561/65536        1122/131072   ( 0.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      554356/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        3438/16777216 ( 0.0%) 
+entdata               [variable]        1202/393216   ( 0.3%) 
+LDR ambient table      204/65536         816/262144   ( 0.3%) 
+HDR ambient table      204/65536         816/262144   ( 0.3%) 
+LDR leaf ambient      1023/65536       28644/1835008  ( 1.6%) 
+HDR leaf ambient       204/65536        5712/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       19969/4194304  ( 0.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1444
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (19969 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 84 texinfos to 65
+Reduced 7 texdatas to 7 (117 bytes to 117)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+ 101 portalclusters
+ 347 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 128 visible clusters (1.41%)
+Total clusters visible: 9067
+Average clusters visible: 89
+Building PAS...
+Average clusters audible: 101
+visdatasize:3438  compressed from 3232
+writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+440 faces
+225870 square feet [32525312.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0017 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 55/8192          660/98304    ( 0.7%) 
+brushsides             330/65536        2640/524288   ( 0.5%) 
+planes                 214/65536        4280/1310720  ( 0.3%) 
+vertexes               513/65536        6156/786432   ( 0.8%) 
+nodes                  201/65536        6432/2097152  ( 0.3%) 
+texinfos                65/12288        4680/884736   ( 0.5%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  440/65536       24640/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              266/65536       14896/3670016  ( 0.4%) 
+leaves                 204/65536        6528/2097152  ( 0.3%) 
+leaffaces              521/65536        1042/131072   ( 0.8%) 
+leafbrushes            116/65536         232/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             3092/512000      12368/2048000  ( 0.6%) 
+edges                 1635/256000       6540/1024000  ( 0.6%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             31/32768         310/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           498/65536         996/131072   ( 0.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      160020/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        3438/16777216 ( 0.0%) 
+entdata               [variable]        1202/393216   ( 0.3%) 
+LDR ambient table      204/65536         816/262144   ( 0.3%) 
+HDR ambient table      204/65536         816/262144   ( 0.3%) 
+LDR leaf ambient       723/65536       20244/1835008  ( 1.1%) 
+HDR leaf ambient       204/65536        5712/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       19969/4194304  ( 0.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1148
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (19970 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 40 texinfos to 18
+Reduced 7 texdatas to 7 (117 bytes to 117)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+ 101 portalclusters
+ 347 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 128 visible clusters (1.41%)
+Total clusters visible: 9067
+Average clusters visible: 89
+Building PAS...
+Average clusters audible: 101
+visdatasize:3438  compressed from 3232
+writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+436 faces
+238983 square feet [34413568.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0023 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 55/8192          660/98304    ( 0.7%) 
+brushsides             330/65536        2640/524288   ( 0.5%) 
+planes                 216/65536        4320/1310720  ( 0.3%) 
+vertexes               512/65536        6144/786432   ( 0.8%) 
+nodes                  201/65536        6432/2097152  ( 0.3%) 
+texinfos                18/12288        1296/884736   ( 0.1%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  436/65536       24416/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              264/65536       14784/3670016  ( 0.4%) 
+leaves                 204/65536        6528/2097152  ( 0.3%) 
+leaffaces              517/65536        1034/131072   ( 0.8%) 
+leafbrushes            116/65536         232/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             3070/512000      12280/2048000  ( 0.6%) 
+edges                 1626/256000       6504/1024000  ( 0.6%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             31/32768         310/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           501/65536        1002/131072   ( 0.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      155680/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        3438/16777216 ( 0.0%) 
+entdata               [variable]        1202/393216   ( 0.3%) 
+LDR ambient table      204/65536         816/262144   ( 0.3%) 
+HDR ambient table      204/65536         816/262144   ( 0.3%) 
+LDR leaf ambient       717/65536       20076/1835008  ( 1.1%) 
+HDR leaf ambient       204/65536        5712/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       19970/4194304  ( 0.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1142
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (20082 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 48 texinfos to 26
+Reduced 7 texdatas to 7 (117 bytes to 117)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+  97 portalclusters
+ 320 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 86 visible clusters (1.04%)
+Total clusters visible: 8241
+Average clusters visible: 84
+Building PAS...
+Average clusters audible: 97
+visdatasize:3303  compressed from 3104
+writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+438 faces
+238649 square feet [34365504.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0016 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 54/8192          648/98304    ( 0.7%) 
+brushsides             324/65536        2592/524288   ( 0.5%) 
+planes                 220/65536        4400/1310720  ( 0.3%) 
+vertexes               529/65536        6348/786432   ( 0.8%) 
+nodes                  200/65536        6400/2097152  ( 0.3%) 
+texinfos                26/12288        1872/884736   ( 0.2%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  438/65536       24528/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              261/65536       14616/3670016  ( 0.4%) 
+leaves                 203/65536        6496/2097152  ( 0.3%) 
+leaffaces              540/65536        1080/131072   ( 0.8%) 
+leafbrushes            124/65536         248/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             3066/512000      12264/2048000  ( 0.6%) 
+edges                 1622/256000       6488/1024000  ( 0.6%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             29/32768         290/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           465/65536         930/131072   ( 0.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      155076/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        3303/16777216 ( 0.0%) 
+entdata               [variable]        1202/393216   ( 0.3%) 
+LDR ambient table      203/65536         812/262144   ( 0.3%) 
+HDR ambient table      203/65536         812/262144   ( 0.3%) 
+LDR leaf ambient       602/65536       16856/1835008  ( 0.9%) 
+HDR leaf ambient       203/65536        5684/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       20082/4194304  ( 0.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1146
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (23714 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 72 texinfos to 50
+Reduced 7 texdatas to 7 (117 bytes to 117)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+  51 portalclusters
+ 160 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1 visible clusters (0.04%)
+Total clusters visible: 2562
+Average clusters visible: 50
+Building PAS...
+Average clusters audible: 51
+visdatasize:1126  compressed from 816
+writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+414 faces
+243345 square feet [35041792.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0020 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 64/8192          768/98304    ( 0.8%) 
+brushsides             384/65536        3072/524288   ( 0.6%) 
+planes                 234/65536        4680/1310720  ( 0.4%) 
+vertexes               489/65536        5868/786432   ( 0.7%) 
+nodes                  118/65536        3776/2097152  ( 0.2%) 
+texinfos                50/12288        3600/884736   ( 0.4%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  414/65536       23184/3670016  ( 0.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              325/65536       18200/3670016  ( 0.5%) 
+leaves                 121/65536        3872/2097152  ( 0.2%) 
+leaffaces              546/65536        1092/131072   ( 0.8%) 
+leafbrushes            123/65536         246/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             3142/512000      12568/2048000  ( 0.6%) 
+edges                 1674/256000       6696/1024000  ( 0.7%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             16/32768         160/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           288/65536         576/131072   ( 0.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      167924/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1126/16777216 ( 0.0%) 
+entdata               [variable]        1202/393216   ( 0.3%) 
+LDR ambient table      121/65536         484/262144   ( 0.2%) 
+HDR ambient table      121/65536         484/262144   ( 0.2%) 
+LDR leaf ambient       439/65536       12292/1835008  ( 0.7%) 
+HDR leaf ambient       121/65536        3388/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       23714/4194304  ( 0.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1014
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 26 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (29130 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 117 texinfos to 91
+Reduced 8 texdatas to 8 (130 bytes to 130)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+  52 portalclusters
+ 168 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1 visible clusters (0.04%)
+Total clusters visible: 2663
+Average clusters visible: 51
+Building PAS...
+Average clusters audible: 52
+visdatasize:1148  compressed from 832
+writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+476 faces
+243005 square feet [34992752.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0021 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 79/8192          948/98304    ( 1.0%) 
+brushsides             474/65536        3792/524288   ( 0.7%) 
+planes                 282/65536        5640/1310720  ( 0.4%) 
+vertexes               593/65536        7116/786432   ( 0.9%) 
+nodes                  121/65536        3872/2097152  ( 0.2%) 
+texinfos                91/12288        6552/884736   ( 0.7%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  476/65536       26656/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              383/65536       21448/3670016  ( 0.6%) 
+leaves                 124/65536        3968/2097152  ( 0.2%) 
+leaffaces              618/65536        1236/131072   ( 0.9%) 
+leafbrushes            141/65536         282/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             3730/512000      14920/2048000  ( 0.7%) 
+edges                 2014/256000       8056/1024000  ( 0.8%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             23/32768         230/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           504/65536        1008/131072   ( 0.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      174960/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1148/16777216 ( 0.0%) 
+entdata               [variable]        1202/393216   ( 0.3%) 
+LDR ambient table      124/65536         496/262144   ( 0.2%) 
+HDR ambient table      124/65536         496/262144   ( 0.2%) 
+LDR leaf ambient       442/65536       12376/1835008  ( 0.7%) 
+HDR leaf ambient       124/65536        3472/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       29130/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1246
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 26 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (29130 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 118 texinfos to 92
+Reduced 8 texdatas to 8 (130 bytes to 130)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+  52 portalclusters
+ 168 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1 visible clusters (0.04%)
+Total clusters visible: 2663
+Average clusters visible: 51
+Building PAS...
+Average clusters audible: 52
+visdatasize:1148  compressed from 832
+writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+476 faces
+250538 square feet [36077552.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0019 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 79/8192          948/98304    ( 1.0%) 
+brushsides             474/65536        3792/524288   ( 0.7%) 
+planes                 282/65536        5640/1310720  ( 0.4%) 
+vertexes               593/65536        7116/786432   ( 0.9%) 
+nodes                  121/65536        3872/2097152  ( 0.2%) 
+texinfos                92/12288        6624/884736   ( 0.7%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  476/65536       26656/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              383/65536       21448/3670016  ( 0.6%) 
+leaves                 124/65536        3968/2097152  ( 0.2%) 
+leaffaces              618/65536        1236/131072   ( 0.9%) 
+leafbrushes            141/65536         282/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             3730/512000      14920/2048000  ( 0.7%) 
+edges                 2014/256000       8056/1024000  ( 0.8%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             23/32768         230/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           504/65536        1008/131072   ( 0.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      178544/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1148/16777216 ( 0.0%) 
+entdata               [variable]        1202/393216   ( 0.3%) 
+LDR ambient table      124/65536         496/262144   ( 0.2%) 
+HDR ambient table      124/65536         496/262144   ( 0.2%) 
+LDR leaf ambient       450/65536       12600/1835008  ( 0.7%) 
+HDR leaf ambient       124/65536        3472/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       29130/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1246
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 26 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (29114 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 118 texinfos to 92
+Reduced 8 texdatas to 8 (130 bytes to 130)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+  52 portalclusters
+ 168 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1 visible clusters (0.04%)
+Total clusters visible: 2663
+Average clusters visible: 51
+Building PAS...
+Average clusters audible: 52
+visdatasize:1148  compressed from 832
+writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+476 faces
+251312 square feet [36188976.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0019 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 79/8192          948/98304    ( 1.0%) 
+brushsides             474/65536        3792/524288   ( 0.7%) 
+planes                 286/65536        5720/1310720  ( 0.4%) 
+vertexes               593/65536        7116/786432   ( 0.9%) 
+nodes                  121/65536        3872/2097152  ( 0.2%) 
+texinfos                92/12288        6624/884736   ( 0.7%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  476/65536       26656/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              382/65536       21392/3670016  ( 0.6%) 
+leaves                 124/65536        3968/2097152  ( 0.2%) 
+leaffaces              622/65536        1244/131072   ( 0.9%) 
+leafbrushes            142/65536         284/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             3732/512000      14928/2048000  ( 0.7%) 
+edges                 2018/256000       8072/1024000  ( 0.8%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             24/32768         240/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           513/65536        1026/131072   ( 0.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      181432/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1148/16777216 ( 0.0%) 
+entdata               [variable]        1202/393216   ( 0.3%) 
+LDR ambient table      124/65536         496/262144   ( 0.2%) 
+HDR ambient table      124/65536         496/262144   ( 0.2%) 
+LDR leaf ambient       452/65536       12656/1835008  ( 0.7%) 
+HDR leaf ambient       124/65536        3472/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       29114/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1252
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 26 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (40954 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 127 texinfos to 100
+Reduced 8 texdatas to 8 (130 bytes to 130)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+  60 portalclusters
+ 193 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2 visible clusters (0.06%)
+Total clusters visible: 3520
+Average clusters visible: 58
+Building PAS...
+Average clusters audible: 60
+visdatasize:1444  compressed from 960
+writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+691 faces
+257758 square feet [37117232.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0023 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                113/8192         1356/98304    ( 1.4%) 
+brushsides             678/65536        5424/524288   ( 1.0%) 
+planes                 412/65536        8240/1310720  ( 0.6%) 
+vertexes               852/65536       10224/786432   ( 1.3%) 
+nodes                  134/65536        4288/2097152  ( 0.2%) 
+texinfos               100/12288        7200/884736   ( 0.8%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  691/65536       38696/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              581/65536       32536/3670016  ( 0.9%) 
+leaves                 137/65536        4384/2097152  ( 0.2%) 
+leaffaces              874/65536        1748/131072   ( 1.3%) 
+leafbrushes            189/65536         378/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5502/512000      22008/2048000  ( 1.1%) 
+edges                 2914/256000      11656/1024000  ( 1.1%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             37/32768         370/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           738/65536        1476/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      211444/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1444/16777216 ( 0.0%) 
+entdata               [variable]        1202/393216   ( 0.3%) 
+LDR ambient table      137/65536         548/262144   ( 0.2%) 
+HDR ambient table      137/65536         548/262144   ( 0.2%) 
+LDR leaf ambient       434/65536       12152/1835008  ( 0.7%) 
+HDR leaf ambient       137/65536        3836/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       40954/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1796
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 26 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (40954 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 127 texinfos to 100
+Reduced 8 texdatas to 8 (130 bytes to 130)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+  60 portalclusters
+ 193 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2 visible clusters (0.06%)
+Total clusters visible: 3520
+Average clusters visible: 58
+Building PAS...
+Average clusters audible: 60
+visdatasize:1444  compressed from 960
+writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+691 faces
+257758 square feet [37117232.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0026 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                113/8192         1356/98304    ( 1.4%) 
+brushsides             678/65536        5424/524288   ( 1.0%) 
+planes                 412/65536        8240/1310720  ( 0.6%) 
+vertexes               852/65536       10224/786432   ( 1.3%) 
+nodes                  134/65536        4288/2097152  ( 0.2%) 
+texinfos               100/12288        7200/884736   ( 0.8%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  691/65536       38696/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              581/65536       32536/3670016  ( 0.9%) 
+leaves                 137/65536        4384/2097152  ( 0.2%) 
+leaffaces              874/65536        1748/131072   ( 1.3%) 
+leafbrushes            189/65536         378/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5502/512000      22008/2048000  ( 1.1%) 
+edges                 2914/256000      11656/1024000  ( 1.1%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             37/32768         370/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           738/65536        1476/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      211444/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1444/16777216 ( 0.0%) 
+entdata               [variable]        1202/393216   ( 0.3%) 
+LDR ambient table      137/65536         548/262144   ( 0.2%) 
+HDR ambient table      137/65536         548/262144   ( 0.2%) 
+LDR leaf ambient       434/65536       12152/1835008  ( 0.7%) 
+HDR leaf ambient       137/65536        3836/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       40954/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1796
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 26 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (42722 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 145 texinfos to 118
+Reduced 8 texdatas to 8 (130 bytes to 130)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+  38 portalclusters
+ 111 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1 visible clusters (0.07%)
+Total clusters visible: 1401
+Average clusters visible: 36
+Building PAS...
+Average clusters audible: 38
+visdatasize:688  compressed from 608
+writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+703 faces
+262073 square feet [37738512.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0029 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                118/8192         1416/98304    ( 1.4%) 
+brushsides             708/65536        5664/524288   ( 1.1%) 
+planes                 418/65536        8360/1310720  ( 0.6%) 
+vertexes               862/65536       10344/786432   ( 1.3%) 
+nodes                  100/65536        3200/2097152  ( 0.2%) 
+texinfos               118/12288        8496/884736   ( 1.0%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  703/65536       39368/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              611/65536       34216/3670016  ( 0.9%) 
+leaves                 103/65536        3296/2097152  ( 0.2%) 
+leaffaces              883/65536        1766/131072   ( 1.3%) 
+leafbrushes            184/65536         368/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             5662/512000      22648/2048000  ( 1.1%) 
+edges                 2994/256000      11976/1024000  ( 1.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             35/32768         350/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           711/65536        1422/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      226944/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         688/16777216 ( 0.0%) 
+entdata               [variable]        1202/393216   ( 0.3%) 
+LDR ambient table      103/65536         412/262144   ( 0.2%) 
+HDR ambient table      103/65536         412/262144   ( 0.2%) 
+LDR leaf ambient       331/65536        9268/1835008  ( 0.5%) 
+HDR leaf ambient       103/65536        2884/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       42722/4194304  ( 1.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1812
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 26 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (44946 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 154 texinfos to 127
+Reduced 8 texdatas to 8 (130 bytes to 130)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+  59 portalclusters
+ 191 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1 visible clusters (0.03%)
+Total clusters visible: 3446
+Average clusters visible: 58
+Building PAS...
+Average clusters audible: 59
+visdatasize:1420  compressed from 944
+writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+757 faces
+263560 square feet [37952752.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0028 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                124/8192         1488/98304    ( 1.5%) 
+brushsides             744/65536        5952/524288   ( 1.1%) 
+planes                 430/65536        8600/1310720  ( 0.7%) 
+vertexes               921/65536       11052/786432   ( 1.4%) 
+nodes                  134/65536        4288/2097152  ( 0.2%) 
+texinfos               127/12288        9144/884736   ( 1.0%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  757/65536       42392/3670016  ( 1.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              647/65536       36232/3670016  ( 1.0%) 
+leaves                 137/65536        4384/2097152  ( 0.2%) 
+leaffaces              955/65536        1910/131072   ( 1.5%) 
+leafbrushes            202/65536         404/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6038/512000      24152/2048000  ( 1.2%) 
+edges                 3182/256000      12728/1024000  ( 1.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             36/32768         360/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           726/65536        1452/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      234748/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1420/16777216 ( 0.0%) 
+entdata               [variable]        1202/393216   ( 0.3%) 
+LDR ambient table      137/65536         548/262144   ( 0.2%) 
+HDR ambient table      137/65536         548/262144   ( 0.2%) 
+LDR leaf ambient       439/65536       12292/1835008  ( 0.7%) 
+HDR leaf ambient       137/65536        3836/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       44946/4194304  ( 1.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1936
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 76 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (48682 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 169 texinfos to 141
+Reduced 8 texdatas to 8 (130 bytes to 130)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+  35 portalclusters
+ 102 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1205
+Average clusters visible: 34
+Building PAS...
+Average clusters audible: 35
+visdatasize:634  compressed from 560
+writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+773 faces
+268450 square feet [38656916.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0026 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                135/8192         1620/98304    ( 1.6%) 
+brushsides             810/65536        6480/524288   ( 1.2%) 
+planes                 442/65536        8840/1310720  ( 0.7%) 
+vertexes               962/65536       11544/786432   ( 1.5%) 
+nodes                   97/65536        3104/2097152  ( 0.1%) 
+texinfos               141/12288       10152/884736   ( 1.1%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  773/65536       43288/3670016  ( 1.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              679/65536       38024/3670016  ( 1.0%) 
+leaves                 100/65536        3200/2097152  ( 0.2%) 
+leaffaces              890/65536        1780/131072   ( 1.4%) 
+leafbrushes            188/65536         376/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6260/512000      25040/2048000  ( 1.2%) 
+edges                 3329/256000      13316/1024000  ( 1.3%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             41/32768         410/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           789/65536        1578/131072   ( 1.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      248768/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         634/16777216 ( 0.0%) 
+entdata               [variable]        1202/393216   ( 0.3%) 
+LDR ambient table      100/65536         400/262144   ( 0.2%) 
+HDR ambient table      100/65536         400/262144   ( 0.2%) 
+LDR leaf ambient       253/65536        7084/1835008  ( 0.4%) 
+HDR leaf ambient       100/65536        2800/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       48682/4194304  ( 1.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1998
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 54 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (49018 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 169 texinfos to 141
+Reduced 8 texdatas to 8 (130 bytes to 130)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+  35 portalclusters
+ 102 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1205
+Average clusters visible: 34
+Building PAS...
+Average clusters audible: 35
+visdatasize:634  compressed from 560
+writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+790 faces
+268825 square feet [38710920.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0031 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                135/8192         1620/98304    ( 1.6%) 
+brushsides             810/65536        6480/524288   ( 1.2%) 
+planes                 460/65536        9200/1310720  ( 0.7%) 
+vertexes               983/65536       11796/786432   ( 1.5%) 
+nodes                   97/65536        3104/2097152  ( 0.1%) 
+texinfos               141/12288       10152/884736   ( 1.1%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  790/65536       44240/3670016  ( 1.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              696/65536       38976/3670016  ( 1.1%) 
+leaves                 100/65536        3200/2097152  ( 0.2%) 
+leaffaces              907/65536        1814/131072   ( 1.4%) 
+leafbrushes            188/65536         376/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6390/512000      25560/2048000  ( 1.2%) 
+edges                 3382/256000      13528/1024000  ( 1.3%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             41/32768         410/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           789/65536        1578/131072   ( 1.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      251804/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         634/16777216 ( 0.0%) 
+entdata               [variable]        1202/393216   ( 0.3%) 
+LDR ambient table      100/65536         400/262144   ( 0.2%) 
+HDR ambient table      100/65536         400/262144   ( 0.2%) 
+LDR leaf ambient       252/65536        7056/1835008  ( 0.4%) 
+HDR leaf ambient       100/65536        2800/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       49018/4194304  ( 1.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2026
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 128 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (53738 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 187 texinfos to 159
+Reduced 8 texdatas to 8 (130 bytes to 130)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+  47 portalclusters
+ 154 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 2187
+Average clusters visible: 46
+Building PAS...
+Average clusters audible: 47
+visdatasize:944  compressed from 752
+writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+860 faces
+274408 square feet [39514860.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0028 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                147/8192         1764/98304    ( 1.8%) 
+brushsides             882/65536        7056/524288   ( 1.3%) 
+planes                 472/65536        9440/1310720  ( 0.7%) 
+vertexes              1108/65536       13296/786432   ( 1.7%) 
+nodes                  112/65536        3584/2097152  ( 0.2%) 
+texinfos               159/12288       11448/884736   ( 1.3%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  860/65536       48160/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              739/65536       41384/3670016  ( 1.1%) 
+leaves                 115/65536        3680/2097152  ( 0.2%) 
+leaffaces             1123/65536        2246/131072   ( 1.7%) 
+leafbrushes            243/65536         486/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6927/512000      27708/2048000  ( 1.4%) 
+edges                 3692/256000      14768/1024000  ( 1.4%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             57/32768         570/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1014/65536        2028/131072   ( 1.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      271808/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         944/16777216 ( 0.0%) 
+entdata               [variable]        1202/393216   ( 0.3%) 
+LDR ambient table      115/65536         460/262144   ( 0.2%) 
+HDR ambient table      115/65536         460/262144   ( 0.2%) 
+LDR leaf ambient       435/65536       12180/1835008  ( 0.7%) 
+HDR leaf ambient       115/65536        3220/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       53738/4194304  ( 1.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2251
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 72 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (53666 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 201 texinfos to 173
+Reduced 8 texdatas to 8 (130 bytes to 130)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+  52 portalclusters
+ 167 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 2676
+Average clusters visible: 51
+Building PAS...
+Average clusters audible: 52
+visdatasize:1148  compressed from 832
+writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+898 faces
+274494 square feet [39527276.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0029 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                146/8192         1752/98304    ( 1.8%) 
+brushsides             876/65536        7008/524288   ( 1.3%) 
+planes                 488/65536        9760/1310720  ( 0.7%) 
+vertexes              1127/65536       13524/786432   ( 1.7%) 
+nodes                  124/65536        3968/2097152  ( 0.2%) 
+texinfos               173/12288       12456/884736   ( 1.4%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  898/65536       50288/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              775/65536       43400/3670016  ( 1.2%) 
+leaves                 127/65536        4064/2097152  ( 0.2%) 
+leaffaces             1145/65536        2290/131072   ( 1.7%) 
+leafbrushes            237/65536         474/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             7239/512000      28956/2048000  ( 1.4%) 
+edges                 3824/256000      15296/1024000  ( 1.5%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             57/32768         570/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1023/65536        2046/131072   ( 1.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      275940/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1148/16777216 ( 0.0%) 
+entdata               [variable]        1202/393216   ( 0.3%) 
+LDR ambient table      127/65536         508/262144   ( 0.2%) 
+HDR ambient table      127/65536         508/262144   ( 0.2%) 
+LDR leaf ambient       412/65536       11536/1835008  ( 0.6%) 
+HDR leaf ambient       127/65536        3556/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       53666/4194304  ( 1.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2343
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 72 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (53634 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 201 texinfos to 173
+Reduced 8 texdatas to 8 (130 bytes to 130)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+  52 portalclusters
+ 167 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 2676
+Average clusters visible: 51
+Building PAS...
+Average clusters audible: 52
+visdatasize:1148  compressed from 832
+writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+898 faces
+275314 square feet [39645244.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0032 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                146/8192         1752/98304    ( 1.8%) 
+brushsides             876/65536        7008/524288   ( 1.3%) 
+planes                 478/65536        9560/1310720  ( 0.7%) 
+vertexes              1127/65536       13524/786432   ( 1.7%) 
+nodes                  124/65536        3968/2097152  ( 0.2%) 
+texinfos               173/12288       12456/884736   ( 1.4%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  898/65536       50288/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              775/65536       43400/3670016  ( 1.2%) 
+leaves                 127/65536        4064/2097152  ( 0.2%) 
+leaffaces             1143/65536        2286/131072   ( 1.7%) 
+leafbrushes            237/65536         474/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             7233/512000      28932/2048000  ( 1.4%) 
+edges                 3821/256000      15284/1024000  ( 1.5%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             56/32768         560/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1014/65536        2028/131072   ( 1.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      277876/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1148/16777216 ( 0.0%) 
+entdata               [variable]        1202/393216   ( 0.3%) 
+LDR ambient table      127/65536         508/262144   ( 0.2%) 
+HDR ambient table      127/65536         508/262144   ( 0.2%) 
+LDR leaf ambient       404/65536       11312/1835008  ( 0.6%) 
+HDR leaf ambient       127/65536        3556/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       53634/4194304  ( 1.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2337
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 72 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (53634 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 201 texinfos to 173
+Reduced 8 texdatas to 8 (130 bytes to 130)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+  52 portalclusters
+ 167 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 2676
+Average clusters visible: 51
+Building PAS...
+Average clusters audible: 52
+visdatasize:1148  compressed from 832
+writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+898 faces
+275326 square feet [39647036.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0030 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                146/8192         1752/98304    ( 1.8%) 
+brushsides             876/65536        7008/524288   ( 1.3%) 
+planes                 478/65536        9560/1310720  ( 0.7%) 
+vertexes              1127/65536       13524/786432   ( 1.7%) 
+nodes                  124/65536        3968/2097152  ( 0.2%) 
+texinfos               173/12288       12456/884736   ( 1.4%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  898/65536       50288/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              775/65536       43400/3670016  ( 1.2%) 
+leaves                 127/65536        4064/2097152  ( 0.2%) 
+leaffaces             1143/65536        2286/131072   ( 1.7%) 
+leafbrushes            237/65536         474/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             7233/512000      28932/2048000  ( 1.4%) 
+edges                 3821/256000      15284/1024000  ( 1.5%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             56/32768         560/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1014/65536        2028/131072   ( 1.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      277876/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1148/16777216 ( 0.0%) 
+entdata               [variable]        1202/393216   ( 0.3%) 
+LDR ambient table      127/65536         508/262144   ( 0.2%) 
+HDR ambient table      127/65536         508/262144   ( 0.2%) 
+LDR leaf ambient       408/65536       11424/1835008  ( 0.6%) 
+HDR leaf ambient       127/65536        3556/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       53634/4194304  ( 1.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2337
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 30 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (52994 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 197 texinfos to 169
+Reduced 8 texdatas to 8 (130 bytes to 130)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+16 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+  52 portalclusters
+ 167 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 2676
+Average clusters visible: 51
+Building PAS...
+Average clusters audible: 52
+visdatasize:1148  compressed from 832
+writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+882 faces
+275471 square feet [39667856.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0039 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                144/8192         1728/98304    ( 1.8%) 
+brushsides             864/65536        6912/524288   ( 1.3%) 
+planes                 482/65536        9640/1310720  ( 0.7%) 
+vertexes              1065/65536       12780/786432   ( 1.6%) 
+nodes                  124/65536        3968/2097152  ( 0.2%) 
+texinfos               169/12288       12168/884736   ( 1.4%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  882/65536       49392/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              776/65536       43456/3670016  ( 1.2%) 
+leaves                 127/65536        4064/2097152  ( 0.2%) 
+leaffaces             1055/65536        2110/131072   ( 1.6%) 
+leafbrushes            218/65536         436/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             7111/512000      28444/2048000  ( 1.4%) 
+edges                 3732/256000      14928/1024000  ( 1.5%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             41/32768         410/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           780/65536        1560/131072   ( 1.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      278952/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1148/16777216 ( 0.0%) 
+entdata               [variable]        1202/393216   ( 0.3%) 
+LDR ambient table      127/65536         508/262144   ( 0.2%) 
+HDR ambient table      127/65536         508/262144   ( 0.2%) 
+LDR leaf ambient       420/65536       11760/1835008  ( 0.6%) 
+HDR leaf ambient       127/65536        3556/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       52994/4194304  ( 1.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2243
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 54 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (51554 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 196 texinfos to 169
+Reduced 8 texdatas to 8 (130 bytes to 130)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+  52 portalclusters
+ 167 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 2676
+Average clusters visible: 51
+Building PAS...
+Average clusters audible: 52
+visdatasize:1148  compressed from 832
+writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+879 faces
+272265 square feet [39206252.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0030 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                140/8192         1680/98304    ( 1.7%) 
+brushsides             840/65536        6720/524288   ( 1.3%) 
+planes                 478/65536        9560/1310720  ( 0.7%) 
+vertexes              1110/65536       13320/786432   ( 1.7%) 
+nodes                  124/65536        3968/2097152  ( 0.2%) 
+texinfos               169/12288       12168/884736   ( 1.4%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  879/65536       49224/3670016  ( 1.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              753/65536       42168/3670016  ( 1.1%) 
+leaves                 127/65536        4064/2097152  ( 0.2%) 
+leaffaces             1095/65536        2190/131072   ( 1.7%) 
+leafbrushes            229/65536         458/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             7091/512000      28364/2048000  ( 1.4%) 
+edges                 3743/256000      14972/1024000  ( 1.5%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             55/32768         550/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           993/65536        1986/131072   ( 1.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      268524/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1148/16777216 ( 0.0%) 
+entdata               [variable]        1202/393216   ( 0.3%) 
+LDR ambient table      127/65536         508/262144   ( 0.2%) 
+HDR ambient table      127/65536         508/262144   ( 0.2%) 
+LDR leaf ambient       414/65536       11592/1835008  ( 0.6%) 
+HDR leaf ambient       127/65536        3556/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       51554/4194304  ( 1.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2321
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 54 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (54402 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 233 texinfos to 206
+Reduced 8 texdatas to 8 (130 bytes to 130)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+  77 portalclusters
+ 271 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 8 visible clusters (0.14%)
+Total clusters visible: 5775
+Average clusters visible: 75
+Building PAS...
+Average clusters audible: 77
+visdatasize:2160  compressed from 2464
+writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+928 faces
+281718 square feet [40567532.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0051 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                148/8192         1776/98304    ( 1.8%) 
+brushsides             888/65536        7104/524288   ( 1.4%) 
+planes                 486/65536        9720/1310720  ( 0.7%) 
+vertexes              1170/65536       14040/786432   ( 1.8%) 
+nodes                  162/65536        5184/2097152  ( 0.2%) 
+texinfos               206/12288       14832/884736   ( 1.7%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  928/65536       51968/3670016  ( 1.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              793/65536       44408/3670016  ( 1.2%) 
+leaves                 165/65536        5280/2097152  ( 0.3%) 
+leaffaces             1137/65536        2274/131072   ( 1.7%) 
+leafbrushes            233/65536         466/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             7479/512000      29916/2048000  ( 1.5%) 
+edges                 3969/256000      15876/1024000  ( 1.6%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             57/32768         570/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1035/65536        2070/131072   ( 1.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      297864/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2160/16777216 ( 0.0%) 
+entdata               [variable]        1202/393216   ( 0.3%) 
+LDR ambient table      165/65536         660/262144   ( 0.3%) 
+HDR ambient table      165/65536         660/262144   ( 0.3%) 
+LDR leaf ambient       577/65536       16156/1835008  ( 0.9%) 
+HDR leaf ambient       165/65536        4620/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       54402/4194304  ( 1.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2451
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+1 second elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 54 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (63946 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 240 texinfos to 214
+Reduced 8 texdatas to 8 (130 bytes to 130)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+  61 portalclusters
+ 199 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 3695
+Average clusters visible: 60
+Building PAS...
+Average clusters audible: 61
+visdatasize:1468  compressed from 976
+writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+1115 faces
+367796 square feet [52962648.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0046 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                173/8192         2076/98304    ( 2.1%) 
+brushsides            1038/65536        8304/524288   ( 1.6%) 
+planes                 556/65536       11120/1310720  ( 0.8%) 
+vertexes              1349/65536       16188/786432   ( 2.1%) 
+nodes                  145/65536        4640/2097152  ( 0.2%) 
+texinfos               214/12288       15408/884736   ( 1.7%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1115/65536       62440/3670016  ( 1.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              957/65536       53592/3670016  ( 1.5%) 
+leaves                 148/65536        4736/2097152  ( 0.2%) 
+leaffaces             1385/65536        2770/131072   ( 2.1%) 
+leafbrushes            287/65536         574/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             8799/512000      35196/2048000  ( 1.7%) 
+edges                 4531/256000      18124/1024000  ( 1.8%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             80/32768         800/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1173/65536        2346/131072   ( 1.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      402276/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1468/16777216 ( 0.0%) 
+entdata               [variable]        1202/393216   ( 0.3%) 
+LDR ambient table      148/65536         592/262144   ( 0.2%) 
+HDR ambient table      148/65536         592/262144   ( 0.2%) 
+LDR leaf ambient       456/65536       12768/1835008  ( 0.7%) 
+HDR leaf ambient       148/65536        4144/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       63946/4194304  ( 1.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2741
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+1 second elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 54 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (63898 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 240 texinfos to 214
+Reduced 8 texdatas to 8 (130 bytes to 130)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+  61 portalclusters
+ 199 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 3695
+Average clusters visible: 60
+Building PAS...
+Average clusters audible: 61
+visdatasize:1468  compressed from 976
+writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+1114 faces
+367740 square feet [52954600.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0046 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                173/8192         2076/98304    ( 2.1%) 
+brushsides            1038/65536        8304/524288   ( 1.6%) 
+planes                 562/65536       11240/1310720  ( 0.9%) 
+vertexes              1346/65536       16152/786432   ( 2.1%) 
+nodes                  145/65536        4640/2097152  ( 0.2%) 
+texinfos               214/12288       15408/884736   ( 1.7%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1114/65536       62384/3670016  ( 1.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              956/65536       53536/3670016  ( 1.5%) 
+leaves                 148/65536        4736/2097152  ( 0.2%) 
+leaffaces             1384/65536        2768/131072   ( 2.1%) 
+leafbrushes            287/65536         574/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             8796/512000      35184/2048000  ( 1.7%) 
+edges                 4534/256000      18136/1024000  ( 1.8%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             80/32768         800/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1179/65536        2358/131072   ( 1.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      403056/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1468/16777216 ( 0.0%) 
+entdata               [variable]        1202/393216   ( 0.3%) 
+LDR ambient table      148/65536         592/262144   ( 0.2%) 
+HDR ambient table      148/65536         592/262144   ( 0.2%) 
+LDR leaf ambient       452/65536       12656/1835008  ( 0.7%) 
+HDR leaf ambient       148/65536        4144/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       63898/4194304  ( 1.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2744
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+1 second elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 54 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (65706 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 240 texinfos to 214
+Reduced 8 texdatas to 8 (130 bytes to 130)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+  65 portalclusters
+ 205 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 4199
+Average clusters visible: 64
+Building PAS...
+Average clusters audible: 65
+visdatasize:1694  compressed from 2080
+writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+1177 faces
+438229 square feet [63105040.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0050 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                179/8192         2148/98304    ( 2.2%) 
+brushsides            1074/65536        8592/524288   ( 1.6%) 
+planes                 578/65536       11560/1310720  ( 0.9%) 
+vertexes              1393/65536       16716/786432   ( 2.1%) 
+nodes                  160/65536        5120/2097152  ( 0.2%) 
+texinfos               214/12288       15408/884736   ( 1.7%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1177/65536       65912/3670016  ( 1.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              992/65536       55552/3670016  ( 1.5%) 
+leaves                 163/65536        5216/2097152  ( 0.2%) 
+leaffaces             1444/65536        2888/131072   ( 2.2%) 
+leafbrushes            302/65536         604/131072   ( 0.5%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             9162/512000      36648/2048000  ( 1.8%) 
+edges                 4717/256000      18868/1024000  ( 1.8%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             67/32768         670/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1020/65536        2040/131072   ( 1.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      459292/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1694/16777216 ( 0.0%) 
+entdata               [variable]        1202/393216   ( 0.3%) 
+LDR ambient table      163/65536         652/262144   ( 0.2%) 
+HDR ambient table      163/65536         652/262144   ( 0.2%) 
+LDR leaf ambient       451/65536       12628/1835008  ( 0.7%) 
+HDR leaf ambient       163/65536        4564/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]       65706/4194304  ( 1.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2840
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+1 second elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 54 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (104586 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 240 texinfos to 214
+Reduced 8 texdatas to 8 (130 bytes to 130)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+  71 portalclusters
+ 215 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 5015
+Average clusters visible: 70
+Building PAS...
+Average clusters audible: 71
+visdatasize:1850  compressed from 2272
+writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+1872 faces
+643002 square feet [92592320.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0082 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                287/8192         3444/98304    ( 3.5%) 
+brushsides            1722/65536       13776/524288   ( 2.6%) 
+planes                 910/65536       18200/1310720  ( 1.4%) 
+vertexes              2091/65536       25092/786432   ( 3.2%) 
+nodes                  187/65536        5984/2097152  ( 0.3%) 
+texinfos               214/12288       15408/884736   ( 1.7%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1872/65536      104832/3670016  ( 2.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1641/65536       91896/3670016  ( 2.5%) 
+leaves                 190/65536        6080/2097152  ( 0.3%) 
+leaffaces             2261/65536        4522/131072   ( 3.5%) 
+leafbrushes            457/65536         914/131072   ( 0.7%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            14546/512000      58184/2048000  ( 2.8%) 
+edges                 7405/256000      29620/1024000  ( 2.9%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             67/32768         670/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1020/65536        2040/131072   ( 1.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      658340/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1850/16777216 ( 0.0%) 
+entdata               [variable]        1202/393216   ( 0.3%) 
+LDR ambient table      190/65536         760/262144   ( 0.3%) 
+HDR ambient table      190/65536         760/262144   ( 0.3%) 
+LDR leaf ambient       470/65536       13160/1835008  ( 0.7%) 
+HDR leaf ambient       190/65536        5320/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]      104586/4194304  ( 2.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4238
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+1 second elapsed
+
+
+
+materialPath: E:\Juegos\SteamWin\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 54 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (115434 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 240 texinfos to 214
+Reduced 8 texdatas to 8 (130 bytes to 130)
+Writing D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Art\Level Design\Momentum Mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 105917, actual size 105703
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+reading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.prt
+  71 portalclusters
+ 215 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 5015
+Average clusters visible: 70
+Building PAS...
+Average clusters audible: 71
+visdatasize:1850  compressed from 2272
+writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+2040 faces
+650944 square feet [93736000.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0092 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                315/8192         3780/98304    ( 3.8%) 
+brushsides            1890/65536       15120/524288   ( 2.9%) 
+planes                1034/65536       20680/1310720  ( 1.6%) 
+vertexes              2307/65536       27684/786432   ( 3.5%) 
+nodes                  187/65536        5984/2097152  ( 0.3%) 
+texinfos               214/12288       15408/884736   ( 1.7%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2040/65536      114240/3670016  ( 3.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1809/65536      101304/3670016  ( 2.8%) 
+leaves                 190/65536        6080/2097152  ( 0.3%) 
+leaffaces             2440/65536        4880/131072   ( 3.7%) 
+leafbrushes            488/65536         976/131072   ( 0.7%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            15986/512000      63944/2048000  ( 3.1%) 
+edges                 8125/256000      32500/1024000  ( 3.2%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            107/32768        1070/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1500/65536        3000/131072   ( 2.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      692964/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1850/16777216 ( 0.0%) 
+entdata               [variable]        1202/393216   ( 0.3%) 
+LDR ambient table      190/65536         760/262144   ( 0.3%) 
+HDR ambient table      190/65536         760/262144   ( 0.3%) 
+LDR leaf ambient       469/65536       13132/1835008  ( 0.7%) 
+HDR leaf ambient       190/65536        5320/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105703/0        ( 0.0%) 
+physics               [variable]      115434/4194304  ( 2.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4670
+Writing d:\art\level design\momentum mod\github\018tests\df_test_multijumps\df_test_multijumps.bsp
+2 seconds elapsed
