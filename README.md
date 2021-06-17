@@ -16,6 +16,13 @@ _..._
 _Rename bsp map file to df_MAPNAME.bsp for them to load defrag physics automatically._  
 _Otherwise, you'll need to write "mom_gamemode_override 10" before loading the map, everytime._  
 
+### Ports from defrag to bhop by other mappers
+- bhop_kool_short3 (Link: https://gamebanana.com/mods/125367)
+- bhop_dfwc2017_6 (Link: https://gamebanana.com/mods/124834)
+
+_..._   
+*same thing. rename bhop_ to df_.*
+
 ### Test maps:  
 - df_test_box (simple square box for turning around in a small-ish space)
 - df_test_circlejump (240to480u in 20u increases, for testing circlejumps)
