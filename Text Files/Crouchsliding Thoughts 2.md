@@ -67,6 +67,8 @@ Making crouchsliding fit in a unique way with CPM-influenced physics is not an i
 It is just a matter of balancing it properly, so that they don't overlap.
 
 Starting point:
-sv_crouchslide_accelerate 80
-sv_crouchfriction 0.7
-sv_crouchslide_threshold 700
+```
+sv_crouchslide_accelerate 80;  
+sv_crouchfriction 0.7;  
+sv_crouchslide_threshold 700;  
+```
