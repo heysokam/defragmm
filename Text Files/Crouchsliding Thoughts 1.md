@@ -1,6 +1,7 @@
 # Thoughts on Crouchsliding  
 _Why this mechanic turned the original Quake 4 into a cpm-style fast paced game,_   
 _and how that fits into mmod_race physics_  
+
 _This article became a bit longer than expected. Go to [Part2](https://github.com/heysokam/defragmm/blob/main/Text%20Files/Crouchsliding%20Thoughts%202.md) to read just the conclusion._
 ## Overview
 Quake was originally made for multiplayer pvp.  
