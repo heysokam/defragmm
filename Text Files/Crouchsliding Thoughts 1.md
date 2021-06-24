@@ -114,4 +114,4 @@ Although, if you think about it... they achieve the exact same outcome. Just in 
 So, you could argue that they are not distinct, and one of them should be rejected.  
 But this is where I saw something different, and asked for crouchsliding to be implemented.  
 This is the reason why this text exists.  
-Continue to [Part2](https://github.com/heysokam/defragmm/blob/98b6a7a4ac0deb1299222b4bd9b8874e9720892a/Text%20Files/Crouchsliding%20Thoughts%202.md)
+Continue to [Part2](https://github.com/heysokam/defragmm/blob/main/Text%20Files/Crouchsliding%20Thoughts%202.md)

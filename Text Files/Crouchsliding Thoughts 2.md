@@ -1,4 +1,4 @@
-*This is a short conclusion to [Part1](https://github.com/heysokam/defragmm/blob/85c43beee1810ceb120f8a12e4bc5db1f0d7912f/Text%20Files/Crouchsliding%20Thoughts%201.md). If you don't want to read the explanation of how/why this idea started, then just stay here.*
+*This is a short conclusion to [Part1](https://github.com/heysokam/defragmm/blob/main/Text%20Files/Crouchsliding%20Thoughts%201.md). If you don't want to read the explanation of how/why this idea started, then just stay here.*
 ## My Crouchsliding vision
 _and analysis of why crouchsliding can fit mmod_
 ### What is crouchsliding
